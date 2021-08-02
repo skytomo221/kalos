@@ -7,7 +7,7 @@
 
 ## アカウント情報
 
-|                  |                |
+|       項目       |       値       |
 | :--------------: | :------------: |
 |        ID        |   @Puomiaviq   |
 |       名前       |     Kalos      |
@@ -16,3 +16,17 @@
 | アカウント作成日 | 2021-3-1 22:50 |
 
 自己紹介: Gargao cok kiuhoczewmintip zi tonfaa mutqi en xaxod aymen maj siwnaj? Ressoo he luo xi tuc dijvok uqmo jiwkosjepav pamyox deqluo duozokjijan tuxjih!
+
+## 実行方法
+
+```shell
+$ git clone https://github.com/skytomo221/kalos.git
+$ cd kalos
+$ docker-compose up
+```
+
+## 結果だけ見たいんですが
+
+- [カロス語の頻度分析](./src/frequency-analysis.ipynb)
+- [英語の頻度分析](./src/frequency-analysis-english.ipynb)
+- [文字とスペースをランダムにおいたときの頻度分析](./src/frequency-analysis-random.ipynb)
