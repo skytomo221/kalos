@@ -1,0 +1,671 @@
+DateTime,Text,URL,Reply,Retweet,Like,QuoteTweet
+2021-8-2 14:28,カロス語に関して、大文字を小文字に変換し、メンションや約物などの記号の削除した上で、改めて文字について頻度分析をするとこうなったので、でたらめかもしれないです https://t.co/pek3Tnazoz,https://twitter.com/skytomo221/status/1422066736950484993,2,0,5,1
+2021-8-2 11:16,このアカウントについて頻度分析をしてみました,https://twitter.com/skytomo221/status/1422018457537683456,1,3,9,1
+2021-8-2 20:22,あと、こういうデータもありますhttps://t.co/WDYB3CXUhA,https://twitter.com/skytomo221/status/1422155752022577155,0,0,0,0
+2021-8-2 15:04,数値はこんな感じ https://t.co/qZylxsyLeZ,https://twitter.com/skytomo221/status/1422075764963381251,0,0,3,0
+2021-8-2 20:21,すみません、前処理をしたこちらの方を参照してください。https://t.co/hh3FjonTtR,https://twitter.com/skytomo221/status/1422155567573868546,1,0,0,0
+2021-8-2 16:39,@Jean_Coc_Teau 前処理をしたら割とアルゴリズムで生成したかのようなきれいな直線が見えるようになったので、たしかにそうかもしれませんね……https://t.co/hh3FjonTtR,https://twitter.com/skytomo221/status/1422099662773784579,1,0,1,0
+2021-8-2 11:17,全体のソースコードはこちらhttps://t.co/Co6fJJysGo,https://twitter.com/skytomo221/status/1422018734399451137,0,0,0,0
+2021-8-2 19:55,@hedalu244 両軸を対数にしたときのカロス語（1枚目）、ランダム生成（子音:母音:スペース = 1:2:3）（2枚目）、英語（3枚目）です。これを見るとランダム生成しただけじゃ簡単にZipf's lawに従ってくれなさそうですね…といいつつ、カロス語とランダム生成が英語よりも似ているような気がします。 https://t.co/3Xyf86GhzX,https://twitter.com/skytomo221/status/1422148950052638727,1,0,1,0
+2021-8-1 16:30,"??""????でベロイさんって読ませるのとても好き",https://twitter.com/skytomo221/status/1421735129886564355,0,1,4,0
+2021-8-2 11:16,左のグラフが単語ごとの頻度分析、右のグラフが文字ごとの頻度分析です。まあ、全くデタラメではなさそうですね…… https://t.co/nvLZTaBKaD,https://twitter.com/skytomo221/status/1422018459102158849,4,6,7,0
+2021-8-2 14:47,参考までに文字の頻度を https://t.co/HIJlbE8sgQ,https://twitter.com/skytomo221/status/1422071542809120779,0,0,1,0
+2021-8-2 15:03,これはカロス語における単語の長さと単語数の関係 https://t.co/EaeWjsMk99,https://twitter.com/skytomo221/status/1422075467318763526,1,2,8,1
+2021-8-2 20:15,今日でフリートともお別れか……,https://twitter.com/skytomo221/status/1422154089245282304,0,0,2,0
+2021-8-2 14:54,うーん、データを取り出せるけど、考察が苦手……,https://twitter.com/skytomo221/status/1422073400340611072,0,0,0,0
+2021-8-2 12:13,@pyapi378 調べたら、たしかにそうなってました https://t.co/65v72QP68g,https://twitter.com/skytomo221/status/1422032774848933888,0,0,0,0
+2021-8-2 19:51,@hedalu244 それは知らなかったのですが、調べたらそういうことがたしかに出てきますね……。せっかくなので、ランダム生成して比較してみます。,https://twitter.com/skytomo221/status/1422148114425597954,1,0,0,0
+2021-8-1 9:45,#新しいプロフィール画像 https://t.co/QeAhzvXKqS,https://twitter.com/skytomo221/status/1421633191396352000,1,5,23,1
+2021-8-2 14:39,10年続くのか……,https://twitter.com/skytomo221/status/1422069518696816641,0,0,1,0
+2021-8-2 14:30,少なくとも自然言語ではなさそうね,https://twitter.com/skytomo221/status/1422067289180962822,0,0,2,0
+2021-7-31 20:42,昨日の日記https://t.co/mHgSY4JkI9,https://twitter.com/skytomo221/status/1421436208891105280,0,0,2,0
+2021-7-24 2:44,@Iwancof_ptr 落ち着いて3秒間鼻から息を吸って、それからその2倍の時間を掛けて口から吐いてください,https://twitter.com/skytomo221/status/1418628009238564865,0,0,0,0
+2021-7-24 19:41,第二種換気方式よりも第三種換気方式の方が一般的らしいです。僕は最初に「入り口で機械給気するのも、出口で機械排気するのも、あんまり変わらないんじゃないか」と思ったわけですが、これにはちゃんと違いがあって、,https://twitter.com/skytomo221/status/1418884145678221312,1,0,1,0
+2021-7-24 22:25,IPハンドリング（分別生産流通管理）とは、遺伝子組換え農作物と非遺伝子組換え農作物を生産・流通・加工の各段階で混入が起こらないよう管理し、そのことが書類により証明されていることを言います。,https://twitter.com/skytomo221/status/1418925408402116608,0,0,2,0
+2021-7-28 9:13,Unicode、アキュート・アクセント付きの小文字のキリル文字のаとかないのか,https://twitter.com/skytomo221/status/1420175518704365568,0,0,1,0
+2021-7-30 10:22,@Ake_natu 名前w,https://twitter.com/skytomo221/status/1420917715900928001,1,0,1,0
+2021-7-28 2:05,@Iwancof_ptr おやすみなさい?,https://twitter.com/skytomo221/status/1420067780942991362,0,0,1,0
+2021-7-24 18:46,@ga_______na いい感じに溶け込んでて、気付くのに10秒くらいかかりましたw,https://twitter.com/skytomo221/status/1418870181598740481,1,0,1,0
+2021-7-24 19:41,これはちょっと面白いと思いました。たしかに言われてみれば換気扇はありますが、給気扇はあまり見かけたことがないです。,https://twitter.com/skytomo221/status/1418884151982231552,1,0,1,0
+2021-7-24 0:06,"やっと""2020""が終わった感じになってる",https://twitter.com/skytomo221/status/1418588367067901956,0,1,5,0
+2021-7-31 20:42,https://t.co/qyFenSmQzN,https://twitter.com/skytomo221/status/1421436206823329795,1,1,8,0
+2021-7-28 13:32,ピクトグラムは禁止！,https://twitter.com/skytomo221/status/1420240703100112903,1,0,3,0
+2021-7-28 2:09,おやすみなさい…??*ﾟ,https://twitter.com/skytomo221/status/1420068717866536962,0,0,2,0
+2021-7-25 0:04,@Akemu_Akhemu おやすみなさい～,https://twitter.com/skytomo221/status/1418950153730281472,1,0,1,0
+2021-7-24 19:41,第二種換気方式だと、排気量より給気量の方が大きくなるから、室内の圧力は室外よりわずかに高くなります。これを正圧というのですが、室内が正圧になることで室内の水蒸気が壁の内部に押し込まれ、「内部結露」が生じやすくなります。だから、住宅で第二種換気方式が用いられることは少ないんですね。,https://twitter.com/skytomo221/status/1418884148630937600,1,0,0,0
+2021-7-24 22:25,IPハンドリング、ネットワークと関係ありそうで、全然関係ないので好き,https://twitter.com/skytomo221/status/1418925228676108288,1,0,3,0
+2021-7-28 9:11,そういえばキリル文字で合成済み文字を見かけたことないな,https://twitter.com/skytomo221/status/1420175116407742464,0,0,3,0
+2021-7-23 23:36,開会式、バッハ会長とピクトグラムで緩急があって良い,https://twitter.com/skytomo221/status/1418580844055121924,0,0,3,0
+2021-7-25 21:34,引リツで韻律の話、待ってます?,https://twitter.com/skytomo221/status/1419274983159734272,0,1,4,0
+2021-7-24 19:41,室内における換気方式はいくつかあって、給気機で外気を機械給気し、排気口やドアのがらりから室内の空気を自然排気する方法を第二種換気方式といい、吸気口やドアのがらりから外気を自然給気し、排気機で室内空気を機械排気する方法を第三種換気方式というのですが、,https://twitter.com/skytomo221/status/1418884142670827520,1,0,3,0
+2021-7-24 15:58,まいにちねこねこ,https://twitter.com/skytomo221/status/1418828021906116609,0,0,2,0
+2021-7-23 22:59,背景のカンボジアが主張激しくて良い,https://twitter.com/skytomo221/status/1418571509958729732,0,1,4,0
+2021-7-23 10:22,シグくんかわいいな,https://twitter.com/skytomo221/status/1418380852061372416,0,0,0,0
+2021-7-23 21:52,もう少しでナウルなのか,https://twitter.com/skytomo221/status/1418554573225029632,0,0,0,0
+2021-7-22 23:50,これでも貼っとくかhttps://t.co/P5J6I1Dp8K,https://twitter.com/skytomo221/status/1418222009243168775,0,4,7,0
+2021-7-23 23:15,ドローン「ではこのへんでドロンさせていただきます…ｗ」,https://twitter.com/skytomo221/status/1418575411986898945,0,2,14,0
+2021-7-22 1:50,片っ端から店で「アド街見ました」と言うことによって、不正に割引させるタイプのリバースブルートフォース攻撃,https://twitter.com/skytomo221/status/1417889780487000065,0,44,90,0
+2021-7-22 0:34,@rabdology おやすみなさい～,https://twitter.com/skytomo221/status/1417870506393436162,1,0,0,0
+2021-7-23 23:25,ピクトグラムの歴史めちゃくちゃ面白いな,https://twitter.com/skytomo221/status/1418578142122307584,0,0,3,0
+2021-7-23 23:28,Eテレ感好き,https://twitter.com/skytomo221/status/1418578828071297033,0,0,6,0
+2021-7-23 21:57,@namachan10777 たとえそれが間違っていてもその方が伝わりやすいから、敢えてそう言ってるのかもしれない,https://twitter.com/skytomo221/status/1418555746749337603,1,0,1,0
+2021-7-23 22:17,ゲーム音楽わからないけどここだけやたら聞いたことあるBGM,https://twitter.com/skytomo221/status/1418560946268635138,0,0,2,0
+2021-7-23 23:06,ダメだろ,https://twitter.com/skytomo221/status/1418573345029726214,0,1,1,0
+2021-7-23 22:07,TLで高専入場しがち,https://twitter.com/skytomo221/status/1418558321854869507,0,0,4,0
+2021-7-23 21:54,お、ナウルだ～,https://twitter.com/skytomo221/status/1418555139355385860,0,0,2,0
+2021-7-23 22:06,Japanese AlphabetはUnicode順です(ﾆｯｺﾘ),https://twitter.com/skytomo221/status/1418558155944980481,0,1,6,0
+2021-7-23 22:09,あいうえお順で関係が悪い国同士が近くなることによるソーシャルディスタンスで笑ってしまった,https://twitter.com/skytomo221/status/1418558998865870854,0,0,2,0
+2021-7-22 20:42,昨日の #VRChat https://t.co/cjDfjWBlXH,https://twitter.com/skytomo221/status/1418174698894946304,0,0,3,0
+2021-7-23 10:55,食品添加物に漂白剤が入っているの一瞬ドキッとするよね,https://twitter.com/skytomo221/status/1418389346743324674,0,0,2,0
+2021-7-23 23:27,ピクトグラム面白いなwwなにこれwww,https://twitter.com/skytomo221/status/1418578419361583114,0,0,1,0
+2021-7-23 22:27,ラトビア選手の服のデザインなんかすごいな,https://twitter.com/skytomo221/status/1418563367036362759,0,0,1,0
+2021-7-21 11:10,saizeriya | ojichat #シェル芸,https://twitter.com/skytomo221/status/1417668336389824519,0,0,0,0
+2021-7-16 22:00,@Lycolia エレベーターはスタックエスカレーターはキュー,https://twitter.com/skytomo221/status/1416019835025125377,0,0,1,0
+2021-7-16 14:00,@Ake_natu なるほど、たしかにそう言われてみるとおいしそうです,https://twitter.com/skytomo221/status/1415899057940099072,1,0,1,0
+2021-7-19 21:21,昨日の日記。VRChatをしたり、ロシア語とオランダ語をしたり、Life 4 Dead 2（ゾンビゲーム）をしたり、色々しました。https://t.co/pEdA59f4nb,https://twitter.com/skytomo221/status/1417097202086780928,0,0,2,0
+2021-7-20 22:08,昨日の https://t.co/XMceVCDGCK,https://twitter.com/skytomo221/status/1417471457987227656,2,0,3,0
+2021-5-13 20:29,はてなブログくん、Twitterで埋め込みしてくれないの、なんで？,https://twitter.com/skytomo221/status/1392804231241900038,0,1,2,1
+2021-7-21 11:35,取り敢えずフォローはした,https://twitter.com/skytomo221/status/1417674603883732994,0,0,2,0
+2021-7-20 0:01,これ無限にわかる,https://twitter.com/skytomo221/status/1417137521750810625,0,0,1,0
+2021-7-17 10:02,@Lycolia おいしそう…！,https://twitter.com/skytomo221/status/1416201508689891328,0,0,1,0
+2021-7-21 11:45,xargsわからない、半年ROMらなきゃ,https://twitter.com/skytomo221/status/1417677127395069959,0,0,6,0
+2021-7-20 22:08,https://t.co/IBhHVoVxU2,https://twitter.com/skytomo221/status/1417471568041562114,0,0,1,0
+2021-7-16 21:58,にゃんにゃん,https://twitter.com/skytomo221/status/1416019340093054983,1,0,2,0
+2021-7-16 13:45,@Ake_natu ポテチ…？,https://twitter.com/skytomo221/status/1415895243187097600,0,0,1,1
+2021-7-17 13:44,@Kasagone やるやるw,https://twitter.com/skytomo221/status/1416257501264187395,1,0,0,0
+2021-7-19 20:39,"これ、はてなブログに問い合わせたところ、自分で、&lt;meta name=""twitter:card"" content=""summary_image""&gt;を追加していたせいで、うまくTwitterカードが表示されてなかったようです。自分でなんでこれを追加したのか覚えていませんが、同じことで困っていたら確認してみてください。",https://twitter.com/skytomo221/status/1417086587284844553,0,0,2,0
+2021-7-21 11:29,"python -c 'print("" "".join(""あほくさ""))' #シェル芸",https://twitter.com/skytomo221/status/1417673170429964288,0,0,3,0
+2021-7-18 16:41,@YurutoVRC えらい！頑張ってくださいね～,https://twitter.com/skytomo221/status/1416664306939097088,1,0,0,0
+2021-7-16 12:16,叫ぶなら今のうちだぞ https://t.co/xObNFmk4Kz,https://twitter.com/skytomo221/status/1415873021517066240,0,0,6,0
+2021-7-19 12:43,@muniena .i donri coi~,https://twitter.com/skytomo221/status/1416966958923145216,1,0,0,0
+2021-7-21 11:31,んーもしかしてフォローしてないといけない？,https://twitter.com/skytomo221/status/1417673524269883397,0,0,1,0
+2021-7-16 21:57,見てたぞ?? https://t.co/x3epJf9XFN,https://twitter.com/skytomo221/status/1416019267951095810,1,0,3,0
+2021-7-16 8:23,@mizuwumi iffを「いふふ」って読む人もいますね,https://twitter.com/skytomo221/status/1415814350481199105,1,0,5,0
+2021-7-14 7:10,@Ake_natu おはようございます！,https://twitter.com/skytomo221/status/1415071087277187073,1,0,1,0
+2021-7-14 11:36,oomとは https://t.co/62tvQahPtn,https://twitter.com/skytomo221/status/1415138035302158336,1,0,5,0
+2021-7-16 11:28,あ?? スーにょ????ダン??ダン??ダン??シャーン??スにょ??スにょ??スにょ??スにょ??スにょ??スにょ??ス???にょ???スにょ??スにょ??スにょ??スにょ??スにょ??スにょ??ス???にょ???,https://twitter.com/skytomo221/status/1415860965808033793,1,0,4,0
+2021-7-16 11:39,@SenryuChanBot えぇ……,https://twitter.com/skytomo221/status/1415863728189304838,1,1,1,0
+2021-7-14 10:42,Verifying myself: I am skytomo on https://t.co/EJaHB0m472. 3pnbm6XIeOkBjkonVB_dQC92Ad25j6jf9yO4 / https://t.co/OYTf8fzGjd,https://twitter.com/skytomo221/status/1415124409342316550,0,0,1,0
+2021-7-13 22:53,Konsole上でw3mを使ったときは画像表示できないのか……,https://twitter.com/skytomo221/status/1414946164949069832,0,0,3,0
+2021-7-14 22:34,@Mooncat02071 おやすみなさい～,https://twitter.com/skytomo221/status/1415303570690215940,0,0,0,0
+2021-7-13 22:34,@Lycolia 実は負の進数は案外うまくいきます。-2進数なら、1の位、-2の位、4の位、-8の位…-2進数に変換するときも、正の進数のときと同じ方法でできます（ただし余りが正の数になるように気をつける必要があります）そして、-2進数を使えば（計算量が多いけど）2の補数を使わなくても負数表現ができますね～ https://t.co/6ELYsICE8U,https://twitter.com/skytomo221/status/1414941420776009734,0,0,0,0
+2021-7-14 7:09,おはようございます,https://twitter.com/skytomo221/status/1415071013214117888,1,0,2,0
+2021-7-14 11:36,Out Of Memory（OOM）のことらしい,https://twitter.com/skytomo221/status/1415138077547188227,0,0,2,0
+2021-7-16 11:31,なんか昨日、TLにGolangに関するツイートがたくさん流れてきたのですが、今熱いのですか？,https://twitter.com/skytomo221/status/1415861614167814147,0,0,1,0
+2021-7-16 11:12,あっ https://t.co/4j7rv9tWmo,https://twitter.com/skytomo221/status/1415856868237332482,0,0,6,0
+2021-7-15 14:26,すごい雷の音だ……,https://twitter.com/skytomo221/status/1415543276258533382,0,0,5,0
+2021-7-14 7:12,@Mafuyu_7se おおーつよつよだー！おめでとうございます??,https://twitter.com/skytomo221/status/1415071722584166403,1,0,1,0
+2021-7-15 8:59,そういえば、Konsole上のw3mで画像が表示できるようになりました～?? https://t.co/AvbJLP8hqN,https://twitter.com/skytomo221/status/1415461073478504456,0,0,6,0
+2021-7-16 11:10,CPU使用率おかしいでしょ、これ https://t.co/cUx98VYnCV,https://twitter.com/skytomo221/status/1415856396902440964,0,0,4,0
+2021-7-15 15:19,?????? https://t.co/fSa0z3U5sc,https://twitter.com/skytomo221/status/1415556707602747394,0,0,12,0
+2021-7-16 8:26,@mizuwumi ところでふつうはなんて読むんですか？,https://twitter.com/skytomo221/status/1415814956583297026,1,0,2,0
+2021-7-15 12:33,@sksat_tty おはようございます,https://twitter.com/skytomo221/status/1415514772175425537,0,0,2,0
+2021-7-13 12:29,@samesamesaikha おめでとうございます！??????,https://twitter.com/skytomo221/status/1414789160645185539,1,0,1,0
+2021-7-11 11:01,あいまいもこもこ,https://twitter.com/skytomo221/status/1414042181145268224,1,1,5,0
+2021-7-11 22:08,@Lycolia 0.1 + 0.2 == 0.3&gt;&gt;&gt; Falseってやつだ……,https://twitter.com/skytomo221/status/1414209992970801157,1,0,1,0
+2021-7-13 8:57,今日も一日 https://t.co/hPaUgRDxh3,https://twitter.com/skytomo221/status/1414735820506886152,0,1,8,0
+2021-7-11 22:21,"&gt; Your CPU does not support the CX16 instruction, which is required by this version of Julia! This is often due to running inside of a virtualized environment.",https://twitter.com/skytomo221/status/1414213359063355396,1,0,0,0
+2021-7-12 22:28,@KATANKUN_COCOA 例えば (1) は、log? 4 → log? √162 → log? 9 → log? √811/2log? 50 → log? √50…みたいに揃えると比較できますね,https://twitter.com/skytomo221/status/1414577448876789761,0,0,2,0
+2021-7-11 22:10,@naraz__mono かわいい,https://twitter.com/skytomo221/status/1414210589405052932,1,0,1,0
+2021-7-11 22:21,お使いのCPUは、このバージョンのJuliaで必要なCX16命令をサポートしていません。これは多くの場合、仮想化環境内で実行されていることが原因です。そんなことあるんですね…,https://twitter.com/skytomo221/status/1414213378688442374,0,0,0,0
+2021-7-9 23:59,GitHub Copilotくんの15の夜「盗んだAPI Keyで天気を取得」,https://twitter.com/skytomo221/status/1413513025416437765,0,0,8,0
+2021-7-7 22:16,@mizuwumi たしかに…でもとても大きな数になりそう,https://twitter.com/skytomo221/status/1412762342157287424,0,0,2,0
+2021-7-11 22:33,@Lycolia おおー……お金とか厳密な計算とかは今みたいに小数点を固定して計算するか、10進数で管理（C#ならDecimal構造体、JavaならBigDecimalクラス、JavaScriptならよく知らないけどdecimal.js……）するしかないですよね。,https://twitter.com/skytomo221/status/1414216297785696256,1,0,1,0
+2021-7-11 22:23,@Lycolia あちゃー…そんなに不正確なのに、仕事に使って大丈夫なんですか？,https://twitter.com/skytomo221/status/1414213802837504003,1,0,1,0
+2021-7-8 0:09,@kawason0708 お誕生日おめでとうございます！,https://twitter.com/skytomo221/status/1412790839789572101,1,0,1,0
+2021-7-13 9:08,昨日の日記https://t.co/XmoNdXuw8B https://t.co/gTkqi5W1hU,https://twitter.com/skytomo221/status/1414738394337345537,1,0,5,0
+2021-7-11 22:18,Juliaさんさー https://t.co/52nGwVcNrB,https://twitter.com/skytomo221/status/1414212421875494915,1,0,1,0
+2021-7-11 11:01,mozcくん漢字変換がんばれ?ってなってる https://t.co/p0SppZQO4R,https://twitter.com/skytomo221/status/1414042043395969026,0,0,7,0
+2021-7-8 9:08,るるさんのアイコンかわいい,https://twitter.com/skytomo221/status/1412926538790490114,0,0,1,0
+2021-7-12 8:31,おはねむ…,https://twitter.com/skytomo221/status/1414366863979552768,0,0,7,0
+2021-7-8 8:25,おはよう??今日もいい一日を！,https://twitter.com/skytomo221/status/1412915641678327808,0,0,5,0
+2021-7-13 9:08,https://t.co/4BpbRKh33R,https://twitter.com/skytomo221/status/1414738403552227337,0,0,6,0
+2021-7-7 11:54,日本語で表記揺れを直すライブラリとかないのかな（「ネコ 猫 ねこ」を「ねこ ねこ ねこ」とかにしたい）,https://twitter.com/skytomo221/status/1412605848119959558,1,0,5,0
+2021-7-6 21:39,やったー！,https://twitter.com/skytomo221/status/1412390772410748931,0,0,3,0
+2021-7-6 9:20,@mntneko_ おはようございます,https://twitter.com/skytomo221/status/1412204865887997959,0,0,1,0
+2021-7-5 11:51,クイズに挑戦!じゃないんだよ https://t.co/S55fTfC7st,https://twitter.com/skytomo221/status/1411880357016653825,0,1,10,0
+2021-7-4 11:07,@SenryuChanBot 監視して,https://twitter.com/skytomo221/status/1411506809085456384,1,0,0,0
+2021-7-4 11:14,@zerosan030303 おはようございます～,https://twitter.com/skytomo221/status/1411508628184469507,0,0,1,0
+2021-7-4 9:08,おはようございます,https://twitter.com/skytomo221/status/1411476980621475849,0,0,5,0
+2021-7-7 8:27,ぬんぬん,https://twitter.com/skytomo221/status/1412553899077095426,0,0,2,0
+2021-7-7 9:06,@ribn_il ああー…もしVRChatやっているのならフレンド交換しませんか？自分は最近あまりやれていませんが…,https://twitter.com/skytomo221/status/1412563722757836801,1,0,1,0
+2021-7-5 16:53,Alacrittyくんは環境によって日本語のインライン入力ができないのか… Konsoleで試したらできたので、Konsoleを使おうかな https://t.co/NBIDRq2BAl,https://twitter.com/skytomo221/status/1411956424612057088,0,0,7,0
+2021-7-7 22:00,@mizuwumi なんで！？,https://twitter.com/skytomo221/status/1412758363075530760,1,0,0,0
+2021-7-2 10:44,やばいこれ,https://twitter.com/skytomo221/status/1410776256551870464,0,0,0,0
+2021-7-7 13:04,本日の鹿児島高専寮の昼食です https://t.co/5WTop4dYBy,https://twitter.com/skytomo221/status/1412623504332054534,1,4,41,1
+2021-7-3 11:28,@ta_kihoku 同じことになったことがあるので、それはきっと寿命なんだよ,https://twitter.com/skytomo221/status/1411149898695675906,1,0,1,0
+2021-7-7 11:52,ネコ 猫 ねこ https://t.co/Yzfatcwl7Y,https://twitter.com/skytomo221/status/1412605362247589895,0,0,3,0
+2021-7-1 21:30,JuliaとJupyterをよく見間違えるし言い間違える,https://twitter.com/skytomo221/status/1410576573611220995,0,0,3,0
+2021-7-1 8:06,??,https://twitter.com/skytomo221/status/1410374299999870980,0,0,8,0
+2021-7-6 10:13,@E3_Sentry おはまいす?,https://twitter.com/skytomo221/status/1412218147080335360,1,0,0,0
+2021-7-7 8:55,@8_8cm_FlaK おはようございます??,https://twitter.com/skytomo221/status/1412560911542325251,1,0,0,0
+2021-7-6 10:28,@shinonag ?? &lt; ﾖｼ!,https://twitter.com/skytomo221/status/1412221796510666753,1,0,1,0
+2021-6-30 17:13,@LeeKaixin2003 coi ro do!mi'e la .skaitomon.,https://twitter.com/skytomo221/status/1410149376538800137,0,0,0,0
+2021-6-30 13:24,@meshimase_alex おおーfx-JP900じゃないですか！,https://twitter.com/skytomo221/status/1410091966600155136,1,0,1,0
+2021-6-30 13:38,コメントソートのアルゴリズム1. ソートする旨を伝えるコメントを書きます2. 補完機能が自動でソートするコードを生成します3. 終わり,https://twitter.com/skytomo221/status/1410095255911690241,0,0,3,0
+2021-6-30 22:11,時間の話に戻してみますが、さっきやった方法とはまた別の方法で計算してみましょう。先程では3776秒が何時間であるかを考えましたが、3776秒が何分何秒であるかを考えてみましょう。3776[秒]-60[秒/分]×62[分]=56[秒]ですので、62分56秒であることが分かります。,https://twitter.com/skytomo221/status/1410224475996491778,1,0,0,0
+2021-6-30 22:11,4の位が27なのはおかしい（4進数は0～3しか取れないはずです）ので、16の位と、4の位に分けてみましょう。27-4×6=3なので、16の位が6、4の位が3となります。,https://twitter.com/skytomo221/status/1410224486259978240,1,0,0,0
+2021-6-30 22:11,これをもっと簡単に式にすると、111 ÷ 4 = 27 あまり 327 ÷ 4 = 6 あまり 36 ÷ 4 = 1 あまり 21 ÷ 4 = 0 あまり 1となって、下から見上げると、1223となります。,https://twitter.com/skytomo221/status/1410224490328383493,1,0,0,0
+2021-6-30 22:11,これをもっと簡単に式にすると、3776 ÷ 60 = 62 あまり 5662 ÷ 60 = 1 あまり 21 ÷ 24 = 0 あまり 1となって、下から見上げると、1時間2分56秒という答えが出ますね。,https://twitter.com/skytomo221/status/1410224482183049221,1,0,0,0
+2021-6-30 17:12,@LeeKaixin2003 ?(  ?-?-)?,https://twitter.com/skytomo221/status/1410149134024134660,0,0,1,0
+2021-6-30 22:11,これをもっと簡単に式にすると、111 ÷ 64 = 1 あまり 4747 ÷ 16 = 2 あまり 1515 ÷ 4 = 3 あまり 33 ÷ 1 = 3 あまり 0となって1233という答えが出ますね。,https://twitter.com/skytomo221/status/1410224473849008128,1,0,0,0
+2021-6-30 22:07,どうしてこれで10進数を4進数にすることができるか小一時間考えてた,https://twitter.com/skytomo221/status/1410223550632402944,1,0,0,0
+2021-6-30 22:11,では62分は何時間何分でしょう。62[分]-60[分/時間]×1[時間]=2[分]ですので、1時間2分であることが分かります。,https://twitter.com/skytomo221/status/1410224478047461385,1,0,0,0
+2021-6-30 22:11,同じく、10進数の111を4進数に変換するときは、1の位、4の位、16の位、64の位があるわけですから、まず4の位がいくつで、1の位がいくつかを考えます。111-4×27=3なので、4の位が27、1の位が3となるわけですね。,https://twitter.com/skytomo221/status/1410224484276051969,1,0,0,0
+2021-6-30 22:11,1時間は何日何時間かというと、1[時間]-24[時間/日]×0[日]=1[時間]ですので、0日1時間ですね。とまあこんな感じで3776秒が1時間2分56秒であることがわかるわけです。,https://twitter.com/skytomo221/status/1410224479909781511,1,0,0,0
+2021-6-30 22:11,同じく、10進数の111を4進数に変換するときは、1の位、4の位、16の位、64の位があるわけですから、111-64×1=47、47-16×2=15、15-4×3=3、3-1×3=0となり、ここから10進数の111は4進数で1233というのが分かります。,https://twitter.com/skytomo221/status/1410224471605055491,1,0,0,0
+2021-6-30 22:11,16の位が6なのはおかしい（4進数は0～3しか取れないはずです）ので、64の位と、16の位に分けてみましょう。6-4×1=2なので、64の位が1、16の位が2となります。,https://twitter.com/skytomo221/status/1410224488529072129,1,0,0,0
+2021-6-30 22:11,3776秒は何時間何分何秒かっていうのを考えるときに、まず3776[秒]-3600[秒/時間]×1[時間]をして、176秒が残る。次に、176[秒]-60[秒/分]×2[分]をして、56秒が残る。最後に56[秒]-1[秒/秒]×56[秒]=0秒となり、ここから3776秒は1時間2分56秒であることがわかりますね。,https://twitter.com/skytomo221/status/1410224466970365952,1,0,0,0
+2021-6-30 22:31,LibreOffice Drawで特定の画像だけエクスポートする方法とかないんですか,https://twitter.com/skytomo221/status/1410229526722793472,0,0,1,0
+2021-6-30 22:11,…とまあ、こんな感じの説明と理解でいいのかな。,https://twitter.com/skytomo221/status/1410224492371058695,1,0,0,0
+2021-6-30 22:11,これをもっと簡単に式にすると、3776 ÷ 3600 = 1 あまり 1763776 ÷ 60 = 2 あまり 5656 ÷ 1 = 56 あまり 0となって1時間2分56秒という答えが出ますね。,https://twitter.com/skytomo221/status/1410224469436624898,1,0,0,0
+2021-6-30 22:14,最初のくだりは蛇足かも。でも僕は上の方から考えてしまうので、下の方から考える方法を理解しづらいのよね。,https://twitter.com/skytomo221/status/1410225180475990019,0,0,0,0
+2021-6-24 22:42,可視化のことを「見える化」って言うことに違和感があって、「図で説明して分かる化します！」とか「チーズを裂ける化しました」とか「MSVCでPostgreSQLサーバをコンパイルできる化しました」とかなんか違和感…いや、これによって意外と便利に言葉を表せる化するかも？,https://twitter.com/skytomo221/status/1408057866217431047,0,4,33,0
+2021-6-24 9:16,@nanatiaikouka おはようございますー,https://twitter.com/skytomo221/status/1407855052245520389,1,0,0,0
+2021-6-26 22:28,絵を描く友達に「今日はお絵描き配信するの？」と訊いたら「お前が描くんだよ！！」と返されました #tegaki_dt https://t.co/9wD4hBmQG4,https://twitter.com/skytomo221/status/1408779265953304585,0,1,4,0
+2021-6-24 23:01,@meshimase_alex ?(\ (\(&gt;_&lt; C)?? ぴょんぴょん,https://twitter.com/skytomo221/status/1408062785955663888,1,0,3,0
+2021-6-24 22:57,@Kobito_56 おやすみなさい！,https://twitter.com/skytomo221/status/1408061746074447882,1,0,1,0
+2021-6-24 22:46,@ko_rOtringer おやすみなさい～,https://twitter.com/skytomo221/status/1408058892571987974,0,0,1,0
+2021-6-24 22:54,可視化を「見える化」と言われることで積極的に違和感を覚える化！,https://twitter.com/skytomo221/status/1408061027833454604,0,0,3,0
+2021-6-19 11:49,BASICは親だと思ってついていくには難しいところがある,https://twitter.com/skytomo221/status/1406081712765870084,0,0,1,0
+2021-6-27 15:19,?????????? かにかにカニバリズム ??????????,https://twitter.com/skytomo221/status/1409033514469629952,0,1,9,0
+2021-6-20 15:52,@gyoh_learnlearn 例えば、1階が4m分ある建物で、りんごが常に床から1mの地点にあったとします。りんごが1Fにあるとき、りんごは0.25階に位置しますが、天井関数で「りんごが1階にある」とみなし、B1Fにあるときは、りんごは-0.75階に位置しますが、床関数で「りんごが地下1階にある」とみなすなと思いました,https://twitter.com/skytomo221/status/1406505181135572992,1,0,1,0
+2021-6-27 10:45,正規表現はいいぞPEGはもっといいぞ,https://twitter.com/skytomo221/status/1408964762923241476,0,0,1,0
+2021-6-23 8:56,昨日今日にかけてシェルコマンドでこねこねしていたのですが、awkコマンドが細かいところに手が届いて便利だということを知りました,https://twitter.com/skytomo221/status/1407487599862706178,1,0,1,0
+2021-6-24 22:55,今日は月がきれい化…,https://twitter.com/skytomo221/status/1408061336043495424,0,0,5,1
+2021-6-24 18:37,ほえーSixelっていうのがあるんだ僕はANSIカラーまでしか知らなかった,https://twitter.com/skytomo221/status/1407996247353434116,1,0,3,0
+2021-6-23 8:50,シェルの気持ちもちもち,https://twitter.com/skytomo221/status/1407486170724851716,0,0,2,0
+2021-6-27 15:18,カニバリズムだ！,https://twitter.com/skytomo221/status/1409033483234680833,0,0,1,0
+2021-6-23 10:07,JupyterLabでJuliaを使ったら遅くなったりするのかな,https://twitter.com/skytomo221/status/1407505545343377411,0,0,1,1
+2021-6-24 18:38,綺麗な画像どうやって出すんだろって思ってたけどちゃんと調べたことなかった,https://twitter.com/skytomo221/status/1407996451385270276,0,0,1,0
+2021-6-24 22:33,#tegaki_dt https://t.co/qIKdl2CT7K,https://twitter.com/skytomo221/status/1408055795288199180,0,1,10,0
+2021-6-20 15:56,@gyoh_learnlearn 「天井を基準に」というのは、地面から、1階分の高さを1としたとき、「天井が1の地点にあるので、ここの階は1階とみなす」「天井が2の地点にあるので、ここの階は2階とみなす」…ということです。同様に「床を基準に」とは「床が-3の地点にあるので、ここの階は地下3階とみなす」ということです。,https://twitter.com/skytomo221/status/1406506146555330561,1,0,1,0
+2021-6-17 11:04,@HeinrichM1115 「頭痛が痛い」んじゃなくて「頭痛で痛い」ならまだ分かります。「頭が頭痛で痛い」のであって「頭痛が痛い」はなんか重言以前に不自然な日本語って感じがしますね。,https://twitter.com/skytomo221/status/1405345478523297795,0,0,3,0
+2021-6-11 12:07,うっ,https://twitter.com/skytomo221/status/1403187121112813569,0,0,0,0
+2021-6-11 11:14,@casolot_ TypeScriptを学びたいのに，JavaScriptも学ばないといけないといけない矛盾…,https://twitter.com/skytomo221/status/1403173766578925569,1,0,2,0
+2021-6-15 21:05,@S_Y15 こんな感じでスペースの報告しか出てきませんね… https://t.co/cwVKlLreVU,https://twitter.com/skytomo221/status/1404772044877615105,1,0,1,0
+2021-6-11 12:18,型があるバージョンのScratch欲しくないですか？,https://twitter.com/skytomo221/status/1403189790606991361,0,0,0,0
+2021-6-15 20:52,https://t.co/5bVFsccMHL,https://twitter.com/skytomo221/status/1404768676188803077,0,0,3,0
+2021-6-15 21:00,スペースってコメントできないのか、できないのか……,https://twitter.com/skytomo221/status/1404770828491759616,1,0,3,0
+2021-6-16 14:16,docker composeとdocker-composeで挙動が違うんですか！ https://t.co/M0FV1QQ6WW,https://twitter.com/skytomo221/status/1405031520067198979,0,0,3,0
+2021-6-12 10:15,@viterum_24 まいにちねこねこ,https://twitter.com/skytomo221/status/1403521322387316740,0,0,2,0
+2021-6-11 12:00,いいなー私も有年でうねうねしたい,https://twitter.com/skytomo221/status/1403185335568257027,1,0,4,0
+2021-6-15 21:02,しかもPCからだとスペースに参加できないのか,https://twitter.com/skytomo221/status/1404771283812831232,0,0,2,0
+2021-6-10 12:11,技術はすごいのに、そのすごい技術を使うためにすごい時間を書けてドキュメントを読んでいる自分がアホらしくなるときがあるので、ボトルネックが自分にあるというのは共感できる,https://twitter.com/skytomo221/status/1402825678190305282,1,0,2,0
+2021-6-19 11:30,Segmentation fault (core dumped)→ ！！！→ gcc -gオプションでコンパイル→ コアダンプファイルが出力されない！どうして…,https://twitter.com/skytomo221/status/1406076826028412929,0,0,2,0
+2021-6-12 10:17,僕「僕だってさすがに常識偏差値は50くらいあるよ」友達「常識偏差値ってなんだよ、50より上だったらそれ世間の常識から離れてるから常識じゃないじゃん」僕「たしかにwww」,https://twitter.com/skytomo221/status/1403521737610784770,0,10,61,0
+2021-6-10 12:11,あと何度も忘れて何度もググったりね（正規表現とか）,https://twitter.com/skytomo221/status/1402825679247265792,0,0,2,0
+2021-6-10 12:11,「ボトルネックはお前」っていう通知が来て、めちゃくちゃ笑ってしまった。いや、ごめんなさい??,https://twitter.com/skytomo221/status/1402825677183672323,1,0,10,0
+2021-6-15 21:08,@S_Y15 僕がSYさんにメンション飛ばしまくるやばい人になるしかない,https://twitter.com/skytomo221/status/1404772772354543619,0,0,0,0
+2021-6-18 22:07,@yuina_prototype もしかしてホタル！ですか！？,https://twitter.com/skytomo221/status/1405874765944934403,1,0,0,0
+2021-6-10 11:51,@kkp6421 もし57だったら物議醸しそう,https://twitter.com/skytomo221/status/1402820763040641025,1,0,1,0
+2021-6-19 11:49,私が最初に触ったのはBASICですが、親はC#だと思ってる,https://twitter.com/skytomo221/status/1406081567622012928,1,0,1,0
+2021-6-1 22:30,昨日の日記です。コーヒーカップでロジバンを作ったり、ゲームしたりしましたhttps://t.co/LJD3RJJ1f6 https://t.co/DngWgf6cat,https://twitter.com/skytomo221/status/1399719943743193091,1,0,5,0
+2021-5-28 16:14,@t2saras …！普通にそう読む人がいそうですね少なくともいえーーーよりは判ってもらえると思います（それはそう）,https://twitter.com/skytomo221/status/1398175782497767428,0,0,1,0
+2021-5-28 10:01,@Anubis_369 その読み方もいいですね！,https://twitter.com/skytomo221/status/1398082077006843905,0,0,1,0
+2021-5-28 15:16,@takuchalle アイトリプルイーという読み方は認めないという過激派なんでしょうね…（すっとぼけ）,https://twitter.com/skytomo221/status/1398161353790001152,0,0,1,0
+2021-6-4 21:46,フォロワー！！！ https://t.co/z5Z2Uyf2ko,https://twitter.com/skytomo221/status/1400795973773783044,1,0,8,0
+2021-5-28 16:09,@t2saras あいさんいー…,https://twitter.com/skytomo221/status/1398174554422345730,1,0,0,0
+2021-6-1 22:33,続き https://t.co/jPAHiT4dZS,https://twitter.com/skytomo221/status/1399720692271267849,0,1,1,0
+2021-5-27 21:03,ネタなので、「アイトリプルイー」って言ったら「それはない」ってリプしますのでよろしくお願いします。,https://twitter.com/skytomo221/status/1397886206369665024,0,1,13,1
+2021-6-1 23:18,Ghidra、すご… https://t.co/Qnlc7wR6Ra,https://twitter.com/skytomo221/status/1399732109049163776,1,1,5,0
+2021-6-9 23:41,@Lycolia りこさんは誰がどう読んでもりこさんですね…,https://twitter.com/skytomo221/status/1402637083072557057,1,0,1,0
+2021-6-10 9:45,これはけっこう思ってて今作ってる言語ではx1 mi x2 x3 x4 ...をx1 = x2 = x3 = x4 = ... = 私のようにしようと思っていたのですが、実際どういう構造にしたら一番いいんでしょうね,https://twitter.com/skytomo221/status/1402788995273158656,0,0,1,0
+2021-6-2 20:45,@qq542vev 1ヶ月1GB??辛い… .oidai インターネットが自由に使えない苦痛はよくわかります…あんまりお話ししたことがなかったので、通信量を割けるようになったときにはもっとお話しましょう .ai,https://twitter.com/skytomo221/status/1400056092554526721,1,0,1,0
+2021-5-28 15:03,@ose_tweety その読み方は違いますねー,https://twitter.com/skytomo221/status/1398157978683858944,0,0,1,0
+2021-5-28 15:02,@Megido9999 @ose_tweety ネタです。ごめんなさい??https://t.co/jiW4uDO1XB,https://twitter.com/skytomo221/status/1398157782226927618,0,0,2,0
+2021-5-28 10:03,@flytorisan ゆるしてください…https://t.co/4CNxEj9tEs,https://twitter.com/skytomo221/status/1398082576552583168,1,0,0,0
+2021-5-28 15:04,@ppp200x @pppnat ごめんなさい、その読み方はちょっと…,https://twitter.com/skytomo221/status/1398158259635187715,0,0,0,0
+2021-6-3 18:57,昨日の日記ですhttps://t.co/Q2AT6NUo9D https://t.co/cOFe9OsnkL,https://twitter.com/skytomo221/status/1400391117363765251,0,0,7,0
+2021-6-8 22:19,また変なニックネームつけられてる… https://t.co/zT1hAn7frp,https://twitter.com/skytomo221/status/1402253992030265354,1,2,3,0
+2021-6-4 22:00,これをおとといしました,https://twitter.com/skytomo221/status/1400799582523518980,1,0,0,0
+2021-6-1 23:20,post_pgo_initializationとか__scrt_initialize_default_local_stdio_optionsとかどうやって分かるのか気になるな,https://twitter.com/skytomo221/status/1399732649887899648,0,0,1,0
+2021-6-4 22:01,PCの画面ではVRChatできているのにねー,https://twitter.com/skytomo221/status/1400799750111195142,0,0,0,0
+2021-5-27 21:00,他の読み方がある場合は、リプを下さい～^^,https://twitter.com/skytomo221/status/1397885361305505793,3,0,0,0
+2021-5-26 20:39,ぜんぜん関係ないけどu0_a266さん最近はてブロのデザイン変えました？,https://twitter.com/skytomo221/status/1397517639379931137,0,0,3,0
+2021-5-24 21:45,昨日の日記https://t.co/ePOqmCeDG8 https://t.co/fndFJhp1i6,https://twitter.com/skytomo221/status/1396809612943237126,1,0,1,0
+2021-5-27 21:00,こんにちは～！皆さんは、IEEEをなんと読みますか？気になるので、投票とリツイートお願いします！！,https://twitter.com/skytomo221/status/1397885358541393923,5,22,38,12
+2021-5-28 10:01,@flytorisan それはないですねー,https://twitter.com/skytomo221/status/1398081908412583937,1,0,0,0
+2021-5-28 1:39,キツイ人、普通にちくちく言葉で草,https://twitter.com/skytomo221/status/1397955579398684672,0,0,4,0
+2021-5-28 10:01,@Lycolia …！,https://twitter.com/skytomo221/status/1398081962556882956,0,0,1,0
+2021-5-26 20:42,@lu8416 ??,https://twitter.com/skytomo221/status/1397518571115143170,0,0,2,0
+2021-5-28 10:01,@takaxp それはないですね,https://twitter.com/skytomo221/status/1398081869741105154,1,0,1,0
+2021-5-26 22:28,@adijfdkfjklsjf おーやっぱり！見やすい上になんか印象に残りやすい感じがあっていいですよね?,https://twitter.com/skytomo221/status/1397545256783015936,0,0,1,0
+2021-5-28 1:39,これは正しい,https://twitter.com/skytomo221/status/1397955620129579008,0,0,2,0
+2021-5-26 19:54,最近ツイートしなさすぎるな,https://twitter.com/skytomo221/status/1397506544091107335,0,0,0,0
+2021-5-26 19:55,月食見ようとしたらぽつぽつと雨が降ってた,https://twitter.com/skytomo221/status/1397506717441658886,0,0,2,0
+2021-5-26 20:27,https://t.co/P64e10Dst8,https://twitter.com/skytomo221/status/1397514662393131015,0,1,4,0
+2021-5-27 22:02,@sarubo2016 その読み方はないですね！,https://twitter.com/skytomo221/status/1397901109272875021,0,0,1,0
+2021-5-26 20:00,人力マルコフ連鎖,https://twitter.com/skytomo221/status/1397507829246820361,0,0,1,0
+2021-5-26 21:59,皆既月食です https://t.co/I2QsniCIPm,https://twitter.com/skytomo221/status/1397537813168476160,0,0,13,0
+2021-5-24 21:45,https://t.co/zIEBLShAoo,https://twitter.com/skytomo221/status/1396809640776667141,0,1,4,0
+2021-5-28 1:38,やめろやめろー,https://twitter.com/skytomo221/status/1397955284471992322,0,0,2,0
+2021-5-13 20:32,@toufu_iccho_ おお、遂に！おめでとうございます！??????,https://twitter.com/skytomo221/status/1392804974367703041,1,0,1,0
+2021-5-9 18:40,@Nihil_2000 フォントの問題ですかね…？,https://twitter.com/skytomo221/status/1391327304261849092,1,0,0,0
+2021-5-4 9:09,https://t.co/WD3gR2B14E,https://twitter.com/skytomo221/status/1389371691373977605,0,0,0,0
+2021-5-4 12:44,@sosoBOTpi 直してみたので試してみてください～https://t.co/K1MPlPMVmk,https://twitter.com/skytomo221/status/1389425583973490690,1,0,1,0
+2021-5-8 13:28,一文で矛盾するな https://t.co/7FdWux8frP,https://twitter.com/skytomo221/status/1390886225855217665,0,6,32,0
+2021-5-5 18:30,@MugiSus おめでとうございます??,https://twitter.com/skytomo221/status/1389875020340604928,1,0,0,0
+2021-5-21 18:21,@kanomaru2929_fn おお！だいぶ遅い祝福ですが、合格と入学おめでとうございます！??,https://twitter.com/skytomo221/status/1395670993692069889,1,0,1,0
+2021-5-8 0:07,@kousou4129 142人ですね https://t.co/kjGORJbEPF,https://twitter.com/skytomo221/status/1390684636552908802,0,0,0,0
+2021-5-15 11:48,@SPcurrent 階段を登ると標高が上がり、少し気圧が下がるので、その微妙な気圧の差で上った階数を割り出していたと思います。気圧はこのアプリの「センサー出力」項目欄の「圧力」から具体的な値を知ることができるので、興味があったら試してみるといいかも。https://t.co/XreokFHZMs,https://twitter.com/skytomo221/status/1393397877225910274,1,0,5,1
+2021-5-9 19:21,@Nihil_2000 もしくは「ツール」→「辞書の個別設定」（Ctrl+P）で見出しフォントの「システムフォントを用いる」のチェックボックスを外して、フォントを設定することで、その辞書だけに固有のフォントを割り当てることもできます。 https://t.co/l6ISI6hIch,https://twitter.com/skytomo221/status/1391337573994225665,1,0,1,0
+2021-5-5 1:00,わたくし、こういうものですが…と言ってArch Linuxのロゴを見せつけてくるしのなぎさん https://t.co/J92F67HWGx,https://twitter.com/skytomo221/status/1389611007501225984,0,3,18,0
+2021-5-12 23:24,まいにちねこねこ #tegaki_dt https://t.co/vpwxX3bTmX,https://twitter.com/skytomo221/status/1392485768635895809,0,1,21,0
+2021-5-7 22:33,@nanana____kun4 90人,https://twitter.com/skytomo221/status/1390661032159240196,0,0,1,0
+2021-5-12 7:53,やけに固い菓子パンだと思ったら布団噛んでた,https://twitter.com/skytomo221/status/1392251560302809088,1,0,7,0
+2021-5-15 11:44,@SPcurrent たしか気圧計で計っていたと思います。,https://twitter.com/skytomo221/status/1393396915396505601,2,0,1,0
+2021-5-4 12:44,@sosoBOTpi ちなみにこんな感じで修正されています。特に問題なければこのままmainブランチにマージする予定です。https://t.co/WaKWqhPPFq,https://twitter.com/skytomo221/status/1389425699262398464,0,0,1,0
+2021-5-9 19:18,@Nihil_2000 メニューバーから「ツール」→「環境設定」（もしくは Ctrl + Shift + P）でフォントを変えられるはずです。 https://t.co/ClzdZwMe2T,https://twitter.com/skytomo221/status/1391336795040669706,1,0,2,0
+2021-5-4 12:14,@qq542vev coi coi .ui,https://twitter.com/skytomo221/status/1389418059299835906,1,0,1,0
+2021-5-1 13:07,#UnicodeはくらげをEmojiに追加しろ,https://twitter.com/skytomo221/status/1388344361813901317,0,1,6,0
+2021-4-18 23:02,昨日の日記。初めてアバターを作って、魚釣りをして、ドッペルゲンガーへ行きました。Hsjoihsさんとアザラシさんとsksatさんとフレンドになりました。 #はてなブログ初めてのアバター作り - 私が気にする100の事象https://t.co/xldb8E0sMY,https://twitter.com/skytomo221/status/1383782927171870732,1,0,4,0
+2021-4-25 1:26,前方後円墳と後方彼氏面ってぶっちゃけどっちが強いの？,https://twitter.com/skytomo221/status/1385993441826377729,0,1,10,0
+2021-4-21 20:43,@rafenemine よしよし～,https://twitter.com/skytomo221/status/1384835265173196805,1,0,1,0
+2021-4-21 8:21,「TLから何も学ばないBotです」←これすき,https://twitter.com/skytomo221/status/1384648419277295617,0,0,2,0
+2021-4-18 23:16,Hsjoihsさんとazarashiさんとsksatさんとshinoさん（作ったアバターを見せに行きました） https://t.co/ekBXVJB6rI,https://twitter.com/skytomo221/status/1383786638287929348,0,0,5,0
+2021-4-19 0:58,@8_8cm_FlaK おやすみなさい?,https://twitter.com/skytomo221/status/1383812086933778444,1,0,0,0
+2021-4-24 0:15,今日の https://t.co/kpfibU2qBt,https://twitter.com/skytomo221/status/1385613272288661504,1,0,11,0
+2021-4-25 10:26,これ ko'a じゃなくて ri が使えたな、反省,https://twitter.com/skytomo221/status/1386129529630978053,1,0,1,0
+2021-4-18 10:09,プロは一駅前ではなく一駅先で降りる,https://twitter.com/skytomo221/status/1383588512457400320,0,0,3,0
+2021-4-18 23:16,魚釣りとドッペルゲンガー https://t.co/8UjzGleEhe,https://twitter.com/skytomo221/status/1383786623180042246,1,0,2,0
+2021-4-21 8:27,ｱｯ https://t.co/9qfmQ1r5BH,https://twitter.com/skytomo221/status/1384649914324451333,0,0,11,0
+2021-4-24 21:18,@qq542vev fa'oまあ、VPNを使うのはあんまり好ましくないと思っていて、とりあえず見れるようにして欲しいものをリストにしています。そっちの方が後の人が困らないし、正規の方法だと思うので。そのリストが通るかどうかは怪しいですが…?? mu'o,https://twitter.com/skytomo221/status/1385931054716841993,1,0,1,0
+2021-4-18 23:16,魚釣り https://t.co/lkGSwNCxF0,https://twitter.com/skytomo221/status/1383786615152156680,1,0,3,0
+2021-4-27 20:01,イコールのニコールさん…,https://twitter.com/skytomo221/status/1386998957897703429,0,0,3,0
+2021-4-23 7:04,@lu8416 おはようございます?,https://twitter.com/skytomo221/status/1385353960962199553,1,0,1,0
+2021-4-25 10:27,書いたり消したりを重ねるうちに、冗長な表現が残ってしまうことが多々ある,https://twitter.com/skytomo221/status/1386129821139308546,0,0,0,1
+2021-4-18 16:21,歩いて中央駅まで戻ってみるか,https://twitter.com/skytomo221/status/1383682017955442689,0,0,3,0
+2021-4-18 23:16,初めてのアバター作り https://t.co/MXf2i1ps83,https://twitter.com/skytomo221/status/1383786630603964433,1,1,8,0
+2021-4-29 10:59,@yusuke_kosen20s KNCTで調べると3つ以上ありますね…https://t.co/ddqnWeykQ7,https://twitter.com/skytomo221/status/1387587270241226754,1,1,1,0
+2021-4-24 21:16,@qq542vev coi .vev .i ki'e tcidu .i lo cnino julne cei broda cu basti ca lo cabna nanca .i .oi broda fi lo se nitcu be fi lo se tadni .i mi pilno lo skami poi jorne lo drata julne .enai la'o zoi .VPN. zoi goi ko'a .i pe'i lo nu pilno ko'a na drani,https://twitter.com/skytomo221/status/1385930762491285505,1,0,1,1
+2021-4-16 11:21,「耳触りのいい音楽だった」と言う人に対して「目触りのいい映画だった」とか言ってみたい,https://twitter.com/skytomo221/status/1382881831498895360,1,2,6,0
+2021-4-14 15:05,sin関数は青，cos関数は赤のイメージがあります．,https://twitter.com/skytomo221/status/1382213385337536513,2,0,2,0
+2021-4-16 7:44,おはようございます,https://twitter.com/skytomo221/status/1382827191600259076,1,0,4,0
+2021-4-14 12:39,.@sepi_dev 「好きな天気がくもりの人もいるんだから，くもりがいい天気でも良くない？」僕「なるほど」,https://twitter.com/skytomo221/status/1382176775329902599,0,0,2,0
+2021-4-16 7:44,昨日「なぜ何もツイートしないのではなく、何かをツイートするのか」を考えてた,https://twitter.com/skytomo221/status/1382827199439335428,0,1,8,0
+2021-4-14 14:02,面白そう,https://twitter.com/skytomo221/status/1382197519283748870,0,0,0,0
+2021-4-14 12:59,なぜか研究室の自分のデスクの上にCPUの創りかたの本がある（面白いからちょっと読んだ） https://t.co/mFzxG1CikM,https://twitter.com/skytomo221/status/1382181628978483203,1,3,21,0
+2021-4-15 20:34,! https://t.co/IkGnQseKhx,https://twitter.com/skytomo221/status/1382658579807629320,0,1,0,0
+2021-4-16 10:09,@flemmings243nez ???！,https://twitter.com/skytomo221/status/1382863584758091777,0,0,1,0
+2021-4-14 14:04,C#最近使ってないから，時間が空いたらやってみます．,https://twitter.com/skytomo221/status/1382197961682128899,0,0,0,0
+2021-4-14 15:14,進捗を生まないと時間が進まない世界が良かった,https://twitter.com/skytomo221/status/1382215726300237827,0,0,0,0
+2021-4-15 14:31,プログラミングを始めるにあたって，環境構築がある意味一番の難関だったりするので頑張ってくれ～という気持ちでいつもいます．,https://twitter.com/skytomo221/status/1382567179179024387,0,0,11,0
+2021-4-16 13:26,@flemmings243nez あ゛あ゛あ゛あ゛（発狂）,https://twitter.com/skytomo221/status/1382913336199716864,0,0,1,0
+2021-4-16 13:22,これすき,https://twitter.com/skytomo221/status/1382912268577370118,0,0,0,0
+2021-4-14 15:06,黄色はタンジェントかな,https://twitter.com/skytomo221/status/1382213596332007429,0,0,0,0
+2021-4-18 9:49,鹿児島中央駅に着きました！それでどうやって鹿児島大学に行くんですか？（計画性かない人）,https://twitter.com/skytomo221/status/1383583423030202368,0,0,4,0
+2021-4-14 12:44,@MugiSus おはようございます,https://twitter.com/skytomo221/status/1382177841748447243,1,0,1,0
+2021-4-15 20:38,@viterum_VRC わいわい！,https://twitter.com/skytomo221/status/1382659476793139205,0,0,1,0
+2021-4-18 9:59,2、3回行ったことある場所なら記憶と勘でなんとかなるんだなあになった,https://twitter.com/skytomo221/status/1383585870247124997,0,0,2,0
+2021-4-14 13:10,この本で「データシート」という概念を知ったのですが，昨日この言葉をツイートで見かけたのでおおーってなってた（覚えた言葉が実際に使われているのを見るとちょっと感動するよね）．,https://twitter.com/skytomo221/status/1382184373579960324,0,0,6,0
+2021-4-12 18:42,嫌すぎる,https://twitter.com/skytomo221/status/1381543125223534598,0,0,0,0
+2021-4-14 12:23,https://t.co/rFOuYMHTeO,https://twitter.com/skytomo221/status/1382172724534005768,0,0,2,0
+2021-4-12 18:41,「でも、キミ、coi ro doって言ってたよね？()」,https://twitter.com/skytomo221/status/1381543070190108672,1,0,2,1
+2021-4-12 18:30,@slaimsan ！！！ちょっと使ってみます！,https://twitter.com/skytomo221/status/1381540251621974019,0,0,0,0
+2021-4-12 18:25,僕ですか？地道にSimejiでロジバン打ってます,https://twitter.com/skytomo221/status/1381539063308505088,1,0,0,0
+2021-4-12 18:27,mをスライドするとアポストロフィが打てるのが便利 https://t.co/HPhnART0kB,https://twitter.com/skytomo221/status/1381539431794888707,1,0,4,0
+2021-4-12 18:34,ロジハラだ,https://twitter.com/skytomo221/status/1381541238868832258,1,0,0,0
+2021-4-12 23:44,@Lycolia おやすみなさい～,https://twitter.com/skytomo221/status/1381619303548481541,1,0,0,0
+2021-4-13 13:13,こんにちは，skymwaです．,https://twitter.com/skytomo221/status/1381822949594857472,0,0,6,0
+2021-4-12 18:36,これほんとすき,https://twitter.com/skytomo221/status/1381541693430755330,0,0,0,0
+2021-4-12 18:44,ロジハラで思い出したけど、これはガチでロジハラ https://t.co/kEqg00SDDb,https://twitter.com/skytomo221/status/1381543634357522433,1,1,5,1
+2021-4-12 18:44,Google Docsはロジバン過激派だった…？,https://twitter.com/skytomo221/status/1381543785520193537,0,0,0,0
+2021-4-14 11:20,そういう日もある https://t.co/P8Tl9Pr855,https://twitter.com/skytomo221/status/1382156658139226118,0,0,1,0
+2021-4-13 14:25,学校，Vimの公式サイトはブロックされて見れないけど，Emacsの公式サイトは見れるので，学校はEmac派だということがわかる．,https://twitter.com/skytomo221/status/1381840864817733632,1,14,64,0
+2021-4-12 18:37,自然言語処理じゃなくて人間言語処理なんだよな、Natural Language ProcessingじゃなくてHuman  Language Processing,https://twitter.com/skytomo221/status/1381541909714247683,2,1,8,0
+2021-4-12 18:37,#自然言語にwell-definedを求めるな,https://twitter.com/skytomo221/status/1381542073426345985,0,0,4,0
+2021-4-12 23:27,日本語「氾濫させていただきます」,https://twitter.com/skytomo221/status/1381615006219821058,0,3,2,0
+2021-4-14 8:51,@Lycolia ダメでした… https://t.co/UV2LvvNPlA,https://twitter.com/skytomo221/status/1382119310433275906,1,0,0,0
+2021-4-14 11:21,「C'est la vie」と「そういう日もある」，だいたい同じニュアンスかも．,https://twitter.com/skytomo221/status/1382156937244991489,0,1,3,0
+2021-4-13 13:41,「～して良い理由にはならないけど人に～する理由にはなる」，なるほど．,https://twitter.com/skytomo221/status/1381829929122156544,0,0,0,0
+2021-4-11 23:06,@pianists_s ！！！,https://twitter.com/skytomo221/status/1381247238106537985,1,0,0,0
+2021-4-12 18:25,いいな～,https://twitter.com/skytomo221/status/1381538858173562884,0,0,0,0
+2021-4-9 20:13,うぅ、わかりません…,https://twitter.com/skytomo221/status/1380478928540737539,0,0,1,0
+2021-4-12 17:12,人間が遅延評価（必要になるまで行わないこと）をしようとすると酷い目に遭うので、やめましょう,https://twitter.com/skytomo221/status/1381520670488584192,0,2,5,0
+2021-4-11 21:07,世界一面白おかしいbioを見てしまったんだけど、これ笑えるの世界で僕だけしかいなさそう,https://twitter.com/skytomo221/status/1381217229795074052,0,0,1,0
+2021-4-11 19:45,これだけで何の曲聞いているのか分かってしまうの末期,https://twitter.com/skytomo221/status/1381196809691787264,0,0,0,0
+2021-4-11 23:07,@pianists_s Kawaii Future Bass いいですよね！,https://twitter.com/skytomo221/status/1381247506839793664,0,0,0,0
+2021-4-11 20:18,と思ったけどそれがVR感覚を認知できないということか,https://twitter.com/skytomo221/status/1381205120617091072,0,0,2,0
+2021-4-11 18:18,Tbanaさん！高専の話とかが色々できて楽しかったです。ありがとうございます！,https://twitter.com/skytomo221/status/1381174821963243526,0,0,2,0
+2021-4-11 21:33,@flemmings243nez 頑張ってください???,https://twitter.com/skytomo221/status/1381223905457696774,0,0,1,0
+2021-4-12 18:15,Googleのロジバンキーボード、iOS版にはないから試したことない（にふさん曰くそんなに便利というわけでもないらしいけど）,https://twitter.com/skytomo221/status/1381536492078522370,0,0,1,1
+2021-4-9 20:05,これ、MeCabの語源がめかぶだからダメってこと？,https://twitter.com/skytomo221/status/1380476935042605061,1,0,1,0
+2021-4-11 20:19,チンパンジーは自分で自分をくすぐって笑い、人間はVRChat空間で自分を自分でなでると……,https://twitter.com/skytomo221/status/1381205139302707203,0,1,6,0
+2021-4-12 18:24,は？マジ？つよ,https://twitter.com/skytomo221/status/1381538683812151296,0,0,0,0
+2021-4-12 7:49,足りぬ足りぬは睡眠時間が足りぬになってる https://t.co/XiIxPgcCTz,https://twitter.com/skytomo221/status/1381378831538262016,0,0,4,0
+2021-4-11 20:03,いいサムネとタイトル https://t.co/pdrv5Fcfdi,https://twitter.com/skytomo221/status/1381201328785874946,2,2,11,0
+2021-4-10 12:29,@Lycolia たしかにクラゲを食べてないとそんな名前付けませんよね,https://twitter.com/skytomo221/status/1380724514808471559,0,0,0,0
+2021-4-12 18:22,個人的には h と ' を入れ替えてみたらどうなのかと気になります。,https://twitter.com/skytomo221/status/1381538274028658688,0,0,1,0
+2021-4-11 20:18,自分で足の裏を触っても、脳みそが自分の動きを予測できるからくすぐったくないけど、向こう側の相手は脳みそが完全に自分の動きと同期していることを認識できないから、なんか驚くのかなと思いました。,https://twitter.com/skytomo221/status/1381205117936959488,1,0,2,0
+2021-4-11 20:05,昨日の日記です。VRChatでベロイさんとTbanaさんに会いました！https://t.co/QQozKvRN4P,https://twitter.com/skytomo221/status/1381201657795551232,0,0,0,0
+2021-4-9 7:47,見た目で判断してはいけないならば、内面で判断してもいけないはずで、結局のところ、判断していいのは、自分に害を与えるか与えないかだけになる,https://twitter.com/skytomo221/status/1380291179158282242,3,1,11,0
+2021-4-7 20:51,日本語も公用語ではないのでは…というクソリプをしようと思ったら、ICAOでパスポートのフォーマットがある程度決まっていて、英語とかを書くように推奨されているらしい、とニコールさんに言われました。,https://twitter.com/skytomo221/status/1379763855543336960,2,0,2,0
+2021-4-9 7:40,?,https://twitter.com/skytomo221/status/1380289538245857281,0,0,0,0
+2021-4-9 8:58,友達曰く「人は見た目『だけ』で判断してはいけない」らしい。たしかにそうかも。,https://twitter.com/skytomo221/status/1380309046482235394,0,1,3,0
+2021-4-9 19:55,くらげ食べちゃうのかー……,https://twitter.com/skytomo221/status/1380474484461727745,1,0,0,0
+2021-4-8 13:06,@Iwancof_ptr Bitwarden,https://twitter.com/skytomo221/status/1380009016982577155,0,0,1,0
+2021-4-9 8:23,@i_ryo_1030 肌の色や、太っている痩せているなどの身体的特徴で判断していない状況を考えてみると、そういう状況では大抵、精神的な疾患を持っているなどの「内面」でも判断してはいけないのでは？じゃあ、「見た目で判断してはいけないならば、内面で判断してもいけないはず」だよね、という趣旨のツイートかも。,https://twitter.com/skytomo221/status/1380300270983278592,1,0,0,0
+2021-4-9 8:23,@i_ryo_1030 身体的特徴で判断していない状況というのは、自分が店員だったりなにかのスタッフだったり、なにかのコミュニティのメンバーとして参加するときだったり色々考えられるけど、それって人を見た目以外にも、内面で判断してはいけないよね。という気持ちがある。,https://twitter.com/skytomo221/status/1380300421130903552,0,0,0,0
+2021-4-8 7:29,@3_3_nk おめでとうございます！??????,https://twitter.com/skytomo221/status/1379924247745753090,1,0,0,0
+2021-4-7 19:20,今日はお昼寝をしてしまいました…怠惰です……,https://twitter.com/skytomo221/status/1379740787680833538,0,0,4,0
+2021-4-9 15:03,擬似言語かな,https://twitter.com/skytomo221/status/1380400953237458945,0,0,1,0
+2021-4-7 20:55,でも、たしかに日本語書かれてないのは不思議かも,https://twitter.com/skytomo221/status/1379764858984394758,0,0,0,0
+2021-4-7 20:51,"Wikipediaによると
+&gt; Currently, the ICAO recommends that passports be issued in English and French, or in the national language of the issuing country and in either English or French.
+https://t.co/zjgUxVmZsi",https://twitter.com/skytomo221/status/1379763858785464322,0,0,0,1
+2021-4-9 19:57,人はめかぶを食べるが、僕はMeCabにエサ（日本語文）をやる                                      ―― skytomo,https://twitter.com/skytomo221/status/1380474873789620225,0,2,8,0
+2021-4-8 22:07,@Lycolia た、食べちゃうんですか,https://twitter.com/skytomo221/status/1380145316440117253,1,0,0,0
+2021-4-8 22:10,@heheiuncehen こういうことらしいです…https://t.co/A62W6qOSnC,https://twitter.com/skytomo221/status/1380145959733141507,0,0,0,0
+2021-4-8 22:41,まああまり過疎を気にすることはないよ（気になるけど！めっちゃ気にしちゃうけど！）,https://twitter.com/skytomo221/status/1380153859134345224,0,0,5,0
+2021-4-8 12:54,クラゲ，いいよね……,https://twitter.com/skytomo221/status/1380006220912807939,1,0,3,0
+2021-4-8 8:05,おはようございます https://t.co/rx5C8mH7tR,https://twitter.com/skytomo221/status/1379933312546795522,1,0,15,0
+2021-4-9 9:02,まいにちねこねこ,https://twitter.com/skytomo221/status/1380310194333229061,1,0,2,0
+2021-4-6 23:07,ねむねむなので少し早いけど寝ますおやすみなさい?,https://twitter.com/skytomo221/status/1379435598000185346,2,0,4,0
+2021-4-7 7:48,なんと日本語訳もありますhttps://t.co/7MN5QmDmp3,https://twitter.com/skytomo221/status/1379566802020102146,0,1,1,0
+2021-4-6 18:35,昨日の日記です。VRChat楽しかった！ #はてなブログflemmingsさんに会いました - 私が気にする100の事象https://t.co/dv0prlGqcn,https://twitter.com/skytomo221/status/1379367206178287620,0,0,3,0
+2021-4-6 23:06,入寮時の荷物の運び込みで筋肉痛になってる,https://twitter.com/skytomo221/status/1379435337194205186,0,0,3,0
+2021-4-7 7:21,@honoka_kosen おめでとうございます??,https://twitter.com/skytomo221/status/1379559792671252484,1,0,1,0
+2021-4-7 7:46,入門書はこちらから読めますhttps://t.co/hv4Duyrjcl,https://twitter.com/skytomo221/status/1379566243380822018,1,0,0,0
+2021-4-7 19:16,https://t.co/L2VpigonYl,https://twitter.com/skytomo221/status/1379739867257532418,0,0,3,0
+2021-4-6 22:42,荻素さんいなくなってたの気付いて泣きそうになりながらTwitter徘徊してたときがありました,https://twitter.com/skytomo221/status/1379429278618591234,1,0,5,0
+2021-4-6 8:09,毎日見てるぞ?? 覚悟しろ！（しのさんの日記読みやすいし、他人の日記を読むのって案外面白いので読んでます。あと、しのさんが日記書いていると、僕も日記書き続けれられる気力が上がるのでいいですね）https://t.co/YxhymyVkOx,https://twitter.com/skytomo221/status/1379209713670234113,0,0,2,0
+2021-4-6 22:46,@Akemu_Akhemu 良かった、良かった??,https://twitter.com/skytomo221/status/1379430226568998918,1,0,1,0
+2021-4-6 17:18,おっ私浜さんのアイコンが変わってる,https://twitter.com/skytomo221/status/1379347692648689674,0,0,0,0
+2021-4-6 16:48,@mayu___cs インターネットを始めるのが遅かったので知らない時代だ…… その頃はいい時代だったのですか？,https://twitter.com/skytomo221/status/1379340094859976707,1,0,1,0
+2021-4-6 17:22,@sutenaba7 一応ソース貼っておきますね（他の図もなかなか興味深いです）https://t.co/gPEkEtzbki,https://twitter.com/skytomo221/status/1379348774133190663,0,76,161,2
+2021-4-6 16:39,sugoi technology =_=,https://twitter.com/skytomo221/status/1379338045476892675,0,0,0,0
+2021-4-7 9:27,@shinonag 最初、日本語訳が出たと聞いて見に行ったら漢文訓読で大爆笑してしまいました。編程（へんてい；プログラミング）とか編譯器（へんえきき；コンパイラ）とかまさにしのさんの言ってた「100年前の覇権国家が中国だったら」を再現している感じがあって面白いですよね～,https://twitter.com/skytomo221/status/1379591548975779841,0,0,1,0
+2021-4-7 7:45,ところで、文言というプログラミング言語があってですね…https://t.co/oEz0Ea7sZu,https://twitter.com/skytomo221/status/1379565956603633664,1,0,2,0
+2021-4-7 9:21,編程者何。所以役機器也。（プログラミングなる者は何ぞや。機器をはたらかせるためのものなり。）,https://twitter.com/skytomo221/status/1379590180047187979,0,0,0,0
+2021-4-6 12:24,@shinonag お互い頑張りましょう～?,https://twitter.com/skytomo221/status/1379273770087542801,0,0,0,0
+2021-4-6 16:39,周波数スペクトル → ??で笑ってしまった,https://twitter.com/skytomo221/status/1379337925159096327,1,0,0,0
+2021-4-7 6:45,おはよう?,https://twitter.com/skytomo221/status/1379550897227800577,0,0,7,0
+2021-4-4 12:10,今日は入寮日なので落ち着きがない,https://twitter.com/skytomo221/status/1378545445455073284,0,0,8,0
+2021-4-4 10:49,@8_8cm_FlaK おはようございます?,https://twitter.com/skytomo221/status/1378525098810957825,1,0,0,0
+2021-4-4 13:49,@Lycolia 元気ですよ！ただ明日から新学期なのでちょっと憂鬱気味なだけです。,https://twitter.com/skytomo221/status/1378570390830600193,0,0,0,0
+2021-4-3 12:58,@thanksmyfriend5 1?3年は基本2人部屋（多くて3人部屋）で、4年～は1人部屋が多いですね。,https://twitter.com/skytomo221/status/1378195116507078659,0,0,0,0
+2021-4-4 23:59,あの、23時58分に消灯するのやめてもらっていいですか？,https://twitter.com/skytomo221/status/1378723943633182729,0,0,1,0
+2021-4-6 7:26,@Lycolia おはござですー！,https://twitter.com/skytomo221/status/1379198753152765953,0,0,0,0
+2021-4-3 12:34,@464161niftg 先程、TLで「エイプリルフール 3日目――」って流れてきて笑いました（8月32日感）,https://twitter.com/skytomo221/status/1378189168510005253,1,0,0,0
+2021-4-4 12:25,@shinonag いよいよです！夕方にはもう寮にいると思います,https://twitter.com/skytomo221/status/1378549313865871360,0,0,0,0
+2021-4-5 17:19,シャロちゃんめっちゃかわいいよね,https://twitter.com/skytomo221/status/1378985613123231744,0,0,3,0
+2021-4-3 12:33,微?雅黑、妙に愛着が湧いてしまった,https://twitter.com/skytomo221/status/1378188825940217859,0,0,0,0
+2021-4-3 12:28,沈む感じの目すきだけど「沈む感じの」っていう表現もすき,https://twitter.com/skytomo221/status/1378187742832521218,0,0,2,0
+2021-4-5 0:02,人権あるある：ない,https://twitter.com/skytomo221/status/1378724696158478341,0,0,2,0
+2021-4-4 21:21,あっ無事、入寮しました,https://twitter.com/skytomo221/status/1378684174576586762,0,0,9,0
+2021-4-6 7:20,@shinonag ??????！,https://twitter.com/skytomo221/status/1379197214644297728,0,0,1,0
+2021-4-5 23:01,@flemmin28317399 わーい！,https://twitter.com/skytomo221/status/1379071705142845443,0,0,1,0
+2021-4-4 21:22,なるほど https://t.co/Xn0OuHsoSq,https://twitter.com/skytomo221/status/1378684424720674823,1,0,4,0
+2021-4-6 7:57,@mizuwumi しょいしょい～！,https://twitter.com/skytomo221/status/1379206532370329603,0,0,0,0
+2021-4-4 12:37,@Lycolia おはりこさんです…,https://twitter.com/skytomo221/status/1378552385899962370,1,0,0,0
+2021-4-6 8:00,re-evaluatedしたら見れるようになりました。カテゴリはエンターテインメントです。 https://t.co/eKk6nevslP,https://twitter.com/skytomo221/status/1379207257741688833,1,0,1,0
+2021-4-6 7:02,おはようございます,https://twitter.com/skytomo221/status/1379192776760336386,2,0,4,0
+2021-4-1 0:47,あのブログ見たけど書き直したい…書き直したいが書き直そうすると平気で数日潰してしまいそうだから、今は書き直したくない…,https://twitter.com/skytomo221/status/1377286473746051074,0,0,2,0
+2021-3-29 21:29,完。https://t.co/8kwHMVAcTu,https://twitter.com/skytomo221/status/1376511937475878915,0,0,1,0
+2021-4-1 0:54,やることが多いんだよな…少しずつ積み上げていこう,https://twitter.com/skytomo221/status/1377288247265521664,0,0,0,0
+2021-4-1 0:52,@shinonag 有名人だ！,https://twitter.com/skytomo221/status/1377287578487951363,0,0,1,0
+2021-4-1 1:28,#アラズ語を学んで母語のジェンダーバイアスを除去しよう2021,https://twitter.com/skytomo221/status/1377296730903912451,0,0,0,0
+2021-3-29 21:15,こんにちはー、数日間悩んだ末、Teratailに投稿して数分後に自己解決する人です～,https://twitter.com/skytomo221/status/1376508376515944451,0,1,3,0
+2021-4-1 16:11,これエイプリルフール？ https://t.co/FyWpAIyXDE,https://twitter.com/skytomo221/status/1377519067649609728,2,6,37,0
+2021-4-1 0:49,@ririxx0101 分かります。そもそもどうやって項を決めたのかの文書が欲しいですよね。,https://twitter.com/skytomo221/status/1377286876965429255,1,0,0,0
+2021-4-1 9:26,@shinonag すまぬ、すまぬ?もう少ししたら寮生活が始まって、きっと一人部屋になるから、それまで待ってて欲しいです…,https://twitter.com/skytomo221/status/1377417007876825091,0,0,0,0
+2021-4-1 16:10,エイプリルフールあんまり好きじゃないのよね（普通に騙されるため）,https://twitter.com/skytomo221/status/1377518835415183364,0,1,5,1
+2021-4-1 1:05,私の言っていることが正しければ、この文と「『19文字以内で記述できない最小の自然数』は存在しない」という文は嘘で、例外のない規則はないという規則に例外はないし、あなたはその子を食うでしょう。,https://twitter.com/skytomo221/status/1377290942844002307,0,1,1,0
+2021-3-29 21:20,どういう問題が起きているか、わからないところとかをもっと回答者に理解しやすいように質問を編集していたら、「ここ怪しいな」ってなって、ソースコードいじったら、そのまま解決してしまった,https://twitter.com/skytomo221/status/1376509662288175107,0,0,2,0
+2021-4-1 0:53,そもそも新しく教科書みたいな何かでも書きたいという気持ちが半年前くらいから構想があって,https://twitter.com/skytomo221/status/1377288069791948808,0,0,0,0
+2021-4-2 12:55,もにん,https://twitter.com/skytomo221/status/1377831916099883010,0,0,0,0
+2021-3-30 13:56,高専界隈がちょっと殺伐としていたから何があったのかと思ったけどなるほどそういうことね,https://twitter.com/skytomo221/status/1376760244697587715,0,0,0,0
+2021-3-29 21:31,僕はアヒルのおもちゃを買って、エラーが発生したらソースコードを一行ずつアヒルに説明するようにしたほうがいいかもしれないな,https://twitter.com/skytomo221/status/1376512270121934857,0,0,5,0
+2021-3-28 22:56,@arbazard わーい！,https://twitter.com/skytomo221/status/1376171444598493184,0,0,1,0
+2021-3-29 0:01,ちなみに嘘です,https://twitter.com/skytomo221/status/1376187589875490816,0,0,0,0
+2021-4-2 12:10,@botoka_stoli Twitter「絵を描かないと次は永久凍結だぞ?」,https://twitter.com/skytomo221/status/1377820756906700803,0,0,0,0
+2021-3-28 23:59,文字通り、文字通り文字通りにしか使わない,https://twitter.com/skytomo221/status/1376187143760928778,1,0,0,0
+2021-3-28 1:03,@9cumsu ありがとうございます?！,https://twitter.com/skytomo221/status/1375840949981442048,0,0,0,0
+2021-3-28 14:17,@QmanEnobikto ありがとうございます?！！,https://twitter.com/skytomo221/status/1376040787910090753,0,0,1,0
+2021-3-28 0:46,@Mafuyu_7se わあい！まふゆちゃんからのお寿司だー！ありがとうございます??????,https://twitter.com/skytomo221/status/1375836567835615234,0,0,1,0
+2021-3-28 10:09,@MamoruItoi ありがとうございます！！,https://twitter.com/skytomo221/status/1375978268826816515,0,0,1,0
+2021-3-28 10:07,@Kasagone ありがとうございます?！,https://twitter.com/skytomo221/status/1375977905566543875,0,0,1,0
+2021-3-28 22:39,何故か家族の中は「高専生はケーキを切るのが上手い」ことになっており、僕が切ることになるのですが、ケーキを切るのが下手だと、弟から「ケーキの切れない高専生」呼ばわりされます。,https://twitter.com/skytomo221/status/1376167162465841157,0,8,61,0
+2021-3-28 10:09,@pianists_s お、ありがとうございます！,https://twitter.com/skytomo221/status/1375978413316399109,0,0,1,0
+2021-3-28 10:07,@shinonag わーい！ありがとうございます！！,https://twitter.com/skytomo221/status/1375977759260827650,0,0,1,0
+2021-3-28 11:41,@nekw0 うぉー！ありがとうございます?！,https://twitter.com/skytomo221/status/1376001482995113986,0,0,0,0
+2021-3-28 11:40,@Akemu_Akhemu ありがとうございます！,https://twitter.com/skytomo221/status/1376001105616805888,0,0,1,0
+2021-3-28 22:34,@onepalacekey ありがとうございます!!,https://twitter.com/skytomo221/status/1376165841918521347,0,0,0,0
+2021-3-28 10:10,@loxygen_k わーい、ありがとうございます?！！！,https://twitter.com/skytomo221/status/1375978494648229888,0,0,1,0
+2021-3-28 1:03,@2bCUvNE1L7ya4fU ありがとうございます?！！,https://twitter.com/skytomo221/status/1375840885510791169,0,0,0,0
+2021-3-28 11:41,@Number13_koteko ありがとうございますー！！！,https://twitter.com/skytomo221/status/1376001399868190724,0,0,0,0
+2021-3-28 22:33,いえい https://t.co/hXJA6otJLO,https://twitter.com/skytomo221/status/1376165516251828230,2,0,18,0
+2021-3-28 10:06,@honoka_kosen ありがとうございます！,https://twitter.com/skytomo221/status/1375977530935500800,0,0,1,0
+2021-3-28 10:08,@yuki_yuigishi ありがとうございますー！,https://twitter.com/skytomo221/status/1375978138912497672,0,0,1,0
+2021-3-28 0:34,@koh_kirime すごい…、ありがとうございます！,https://twitter.com/skytomo221/status/1375833525266444290,0,0,1,0
+2021-3-28 14:17,@inoha_naito うおー！ありがとうございます！,https://twitter.com/skytomo221/status/1376040680175202306,0,0,1,0
+2021-3-28 11:40,@soshi_harami ありがとうございます?！！,https://twitter.com/skytomo221/status/1376001244825743361,0,0,0,0
+2021-3-28 0:20,@Ask_nyo わーありがとうございます！,https://twitter.com/skytomo221/status/1375830144061894658,0,0,2,0
+2021-3-27 10:20,@Yui__O4O6__ おめでとうございます??,https://twitter.com/skytomo221/status/1375618664624390145,1,0,0,0
+2021-3-27 9:51,衝動買いはしないけど衝動リプはしちゃう,https://twitter.com/skytomo221/status/1375611327171817474,0,0,0,0
+2021-3-28 0:24,@nai_ber ありがとうございます！,https://twitter.com/skytomo221/status/1375831066678751234,1,0,1,0
+2021-3-28 0:21,@ga_______na うおー！ありがとうございます！,https://twitter.com/skytomo221/status/1375830339730382853,0,0,1,0
+2021-3-28 0:21,@Hals_SC ありがとうございます?！,https://twitter.com/skytomo221/status/1375830404880420869,0,0,1,0
+2021-3-28 0:33,@_Nikohl ありがとうございます?！,https://twitter.com/skytomo221/status/1375833253333004288,0,0,1,0
+2021-3-27 12:11,Minecraftのウサギって結構神経質だよね,https://twitter.com/skytomo221/status/1375646588681342981,0,0,1,0
+2021-3-28 0:18,飛びました！わ?い！?????? https://t.co/5PtYNc6MmX,https://twitter.com/skytomo221/status/1375829506028494850,22,2,67,0
+2021-3-27 20:26,どうしても見出しが欲しかったので、ゴリ押しで#の画像を貼り付けることで、一見デフォルトのデザインであるかのように見せることに成功した。僕は満足している。 https://t.co/A9yWFLc48g,https://twitter.com/skytomo221/status/1375771239965323266,0,0,5,0
+2021-3-27 22:15,@nemu__in ！！！綺麗ですね?庭に咲いてるのがいいですね,https://twitter.com/skytomo221/status/1375798577289551879,1,0,0,0
+2021-3-27 9:17,おはようございます（眠い??）,https://twitter.com/skytomo221/status/1375602869861163009,0,0,3,0
+2021-3-28 0:29,@eniehack ありがとうございます！！！,https://twitter.com/skytomo221/status/1375832436064415746,0,0,1,0
+2021-3-27 10:25,@kottontaill505 ????????,https://twitter.com/skytomo221/status/1375620027752214530,1,0,1,0
+2021-3-27 14:15,そういえば、弟が僕を見て「高専生は残念な生き物」って言ってました。,https://twitter.com/skytomo221/status/1375677896728059904,0,0,10,0
+2021-3-26 15:31,@As_Satellite おはようございます,https://twitter.com/skytomo221/status/1375334658796232704,0,0,1,0
+2021-3-27 9:23,指摘を貰うまで違いに気付かなかったけど、もしこの指摘がなければ僕は死ぬまでその違いに気付けなかったわけだ、ゾッとするな,https://twitter.com/skytomo221/status/1375604239594971144,0,0,0,0
+2021-3-27 19:34,@ShinoVRC KnownUser!! おめでとうございます～??,https://twitter.com/skytomo221/status/1375758172095344641,1,0,1,0
+2021-3-27 11:14,@iase_2 おはようございますー,https://twitter.com/skytomo221/status/1375632262536994816,1,0,0,0
+2021-3-26 12:05,@57tggx 人工言語学 Wiki からですかね？,https://twitter.com/skytomo221/status/1375282799079354377,1,0,1,0
+2021-3-26 10:44,@shinonag MinecraftのModを作るとき？,https://twitter.com/skytomo221/status/1375262424622788609,0,0,0,0
+2021-3-23 22:39,これとほぼ同じ状況なんだけど、ベストアンサーどころか回答が1つもない…https://t.co/MstprzJAaw,https://twitter.com/skytomo221/status/1374355191177211907,0,0,0,0
+2021-3-26 11:21,万事がバンジー #とは https://t.co/IAZUnGZk92,https://twitter.com/skytomo221/status/1375271555198971909,0,1,12,0
+2021-3-25 19:45,"はてなブログに投稿しました #はてなブログ
+gcd(80, n) &gt; gcd(50, n) でうるう年が分かるらしい - 私が気にする100の事象
+https://t.co/z2cq0JjKYL",https://twitter.com/skytomo221/status/1375036234804813825,0,1,9,1
+2021-3-25 23:04,https://t.co/1y7b4syRbY,https://twitter.com/skytomo221/status/1375086204870352898,0,0,4,0
+2021-3-26 10:07,おはござ??,https://twitter.com/skytomo221/status/1375252939837566982,0,0,1,0
+2021-3-25 8:00,おはねむ…,https://twitter.com/skytomo221/status/1374858661172932609,0,0,2,0
+2021-3-26 10:21,とんつーつーとん とんつーつーとんつー とんとんつーとんとん とんつーつーとんつー とんつーとんツートーンカラー,https://twitter.com/skytomo221/status/1375256450721742850,0,0,1,0
+2021-3-25 8:00,うーん,https://twitter.com/skytomo221/status/1374858638129459200,0,0,0,0
+2021-3-24 23:06,ビルドは通ったけど、今度はexeファイルクリックしても真っ白い画面しか表示されない,https://twitter.com/skytomo221/status/1374724300347863044,1,0,0,0
+2021-3-23 22:40,みょーん,https://twitter.com/skytomo221/status/1374355313076281347,0,0,1,0
+2021-3-23 22:37,実はローカルが動くのにパッケージ化ができなくて困ってる,https://twitter.com/skytomo221/status/1374354715199213573,1,0,1,1
+2021-3-25 23:31,https://t.co/gLOBOiIrkt,https://twitter.com/skytomo221/status/1375093011483361284,0,0,6,0
+2021-3-25 23:04,https://t.co/eMeXkFBehT,https://twitter.com/skytomo221/status/1375086237149618179,0,0,3,0
+2021-3-25 22:55,https://t.co/888xh9DPB4,https://twitter.com/skytomo221/status/1375083851094007811,0,1,7,0
+2021-3-26 0:06,おやすみなさい??.*???,https://twitter.com/skytomo221/status/1375101713661657094,0,0,1,0
+2021-3-23 22:41,skytomo??情報実はskytomoのskyは空の意味ではない,https://twitter.com/skytomo221/status/1374355721257504770,2,1,11,0
+2021-3-25 22:52,https://t.co/yBlCjY2lgl,https://twitter.com/skytomo221/status/1375083085570564103,0,0,2,0
+2021-3-25 23:08,https://t.co/b8yNJ3Kin0,https://twitter.com/skytomo221/status/1375087090761797632,0,3,9,0
+2021-3-26 0:05,https://t.co/Xqfw4iTdYh,https://twitter.com/skytomo221/status/1375101415182376970,0,1,9,0
+2021-3-24 23:06,エラーメッセージは今手元で確認できないのでまた明日,https://twitter.com/skytomo221/status/1374724393704693766,0,0,0,0
+2021-3-22 21:54,昨夜のゆかりさんのフリートがめちゃかわだった,https://twitter.com/skytomo221/status/1373981381592674305,0,0,0,0
+2021-3-23 0:55,何気に「そらとも」って呼ばれたのは初めてですね、ちょっと新鮮な感じ,https://twitter.com/skytomo221/status/1374027020166860802,0,0,4,0
+2021-3-22 8:59,575なのは分かるけどa575かn575かまでは分からない人,https://twitter.com/skytomo221/status/1373786486919720961,0,0,1,0
+2021-3-22 8:28,いつもより3時間早く起きた,https://twitter.com/skytomo221/status/1373778506090311682,0,0,2,0
+2021-3-21 17:27,#Unicodeは早くEmojiにくらげを実装しろ,https://twitter.com/skytomo221/status/1373551818983182340,0,1,9,0
+2021-3-23 12:12,19世紀：武士に二言はない20世紀：男に二言はない21世紀：人類に二言はない ← New!!,https://twitter.com/skytomo221/status/1374197252432961540,0,0,2,0
+2021-3-23 22:28,安易にElectronになんて手を出すんじゃなかった……,https://twitter.com/skytomo221/status/1374352307328978952,0,1,4,0
+2021-3-23 0:40,ぷにぷに,https://twitter.com/skytomo221/status/1374023264578596866,0,0,0,0
+2021-3-22 13:35,チャーハン食べ！ https://t.co/9ox0wBJUVh,https://twitter.com/skytomo221/status/1373855904173420546,0,0,5,0
+2021-3-23 22:38,s/ローカルが/ローカルでは/,https://twitter.com/skytomo221/status/1374354790617030657,1,0,0,0
+2021-3-22 8:28,おはようございます?,https://twitter.com/skytomo221/status/1373778457356689413,0,0,1,0
+2021-3-21 18:23,みにょんみにょん,https://twitter.com/skytomo221/status/1373565801286881280,0,2,7,0
+2021-3-21 13:26,寝るときに寝ることを考えると眠れなくなるの、この世のバグでは？,https://twitter.com/skytomo221/status/1373491262439878656,0,0,0,0
+2021-3-21 17:27,ぎょうざがウミウシに見えてきた…,https://twitter.com/skytomo221/status/1373551711948738561,0,2,8,0
+2021-3-21 17:24,?～ ?～ ?～　　　くらげ～ 　　　? ??  ? ??　あっちにゆらゆら 　　?? ?  ?? ?　こっちにゆらゆら　　　　～? ～? ～? 　? かわいいね ?,https://twitter.com/skytomo221/status/1373551099941060614,0,3,12,0
+2021-3-22 0:15,@Lycolia おやすみなさい??,https://twitter.com/skytomo221/status/1373654456756097025,1,0,1,0
+2021-3-22 21:56,ゆかゆかゆかりん♪,https://twitter.com/skytomo221/status/1373981938193555461,0,0,0,0
+2021-3-22 8:12,@Lycolia おはようございます！,https://twitter.com/skytomo221/status/1373774510348857348,1,0,0,0
+2021-3-22 8:42,@Lycolia （ちょうど寝起きだったのでちょっとびっくりしました）,https://twitter.com/skytomo221/status/1373782121517490177,0,0,1,0
+2021-3-21 11:13,これからも開発頑張るぞい?,https://twitter.com/skytomo221/status/1373457813725274112,0,0,2,0
+2021-3-19 11:06,@shinonag おはよ,https://twitter.com/skytomo221/status/1372731240533565440,0,0,1,0
+2021-3-17 17:59,ZiphilさんがZiphinekoさんになってる……,https://twitter.com/skytomo221/status/1372110337227382789,0,1,4,0
+2021-3-21 11:13,素直に嬉しい??,https://twitter.com/skytomo221/status/1373457781500514306,0,0,0,0
+2021-3-16 17:55,skytomo、どこをとっても個人情報の一部なのやばいなw,https://twitter.com/skytomo221/status/1371746967886307330,1,0,4,0
+2021-3-20 10:52,@iase_2 おめでとうございます！！??????,https://twitter.com/skytomo221/status/1373090090344349698,1,0,0,0
+2021-3-21 10:25,みょーん,https://twitter.com/skytomo221/status/1373445668857995265,0,1,1,0
+2021-3-16 18:24,当たり前だけどエゴサしたいなら名前をユニークにした方がいいです。SKYtomoっていう沖縄のYouTuberがいるから、skytomoはエゴサしづらいです。,https://twitter.com/skytomo221/status/1371754350477910021,0,5,5,0
+2021-3-18 21:51,もういっそのこと、互換性ガン無視JSONを作ったほうがいいのか？,https://twitter.com/skytomo221/status/1372531164515160065,1,1,3,0
+2021-3-16 17:58,skytomo221の221の部分だけは個人情報とは直接関係ない（間接的には関係あるけど）,https://twitter.com/skytomo221/status/1371747776908775424,0,0,1,0
+2021-3-21 10:37,ぴあにすつさんにみょーんされる,https://twitter.com/skytomo221/status/1373448637754187779,0,0,4,0
+2021-3-18 21:56,OTM-JSON「君はRSSのバージョン2、3みたいな道を歩みたいのかい？」僕「いいえ…」,https://twitter.com/skytomo221/status/1372532357085859842,1,0,1,0
+2021-3-15 23:32,ノユラ語好きかも,https://twitter.com/skytomo221/status/1371469406899859461,0,0,0,0
+2021-3-21 11:12,@qq542vev うおおー！こちらこそ使ってくれてありがとうございます！もし、不便なところや希望があったらここからissueを立ててくださいねhttps://t.co/Er1tDs2mXz,https://twitter.com/skytomo221/status/1373457482526298114,0,0,1,0
+2021-3-19 9:44,おはようございます??,https://twitter.com/skytomo221/status/1372710459233640448,0,0,2,0
+2021-3-16 18:14,みせっこ?,https://twitter.com/skytomo221/status/1371751598569922566,0,0,1,0
+2021-3-21 10:37,昨夜、TLがこの圧だったので……こんなの誰だってみょーんするでしょ https://t.co/l6SCRdQquM,https://twitter.com/skytomo221/status/1373448561795362818,0,4,5,0
+2021-3-18 21:58,とはいえ、そういう道もぜんぜんありっちゃありかもしれない（開発者がめんどくさいだけだし（ぜんぜん良くない））,https://twitter.com/skytomo221/status/1372532872079314948,0,0,0,0
+2021-3-17 10:11,まいにちねこねこ,https://twitter.com/skytomo221/status/1371992516581462019,1,2,5,0
+2021-3-20 11:52,ぬんぬん,https://twitter.com/skytomo221/status/1373105183803068416,0,0,1,0
+2021-3-15 0:58,良い → 良く言うおいしい → おいしくいただくみたいな感じがしてきた（なんか惜しい感じがするけど）,https://twitter.com/skytomo221/status/1371128551953498117,1,0,1,0
+2021-3-15 17:13,日本各地の横断歩道を縦断する（？）,https://twitter.com/skytomo221/status/1371373978644742145,0,0,1,0
+2021-3-15 17:07,Ctrl + X、割とVSCodeとかで削除のときに使ってる（ペーストできるのはおまけ機能的な感覚）,https://twitter.com/skytomo221/status/1371372554221281286,0,0,1,0
+2021-3-15 0:46,伊達初買曽我」〔「うまい」より丁寧で、多く女性が用いる〕［派生］━?が・る（動ラ五）・━?げ（形動）・━?さ（名）大辞林,https://twitter.com/skytomo221/status/1371125591810797569,0,0,0,0
+2021-3-15 18:26,ゐてるまさんから何かツイートしてた覚えがあってTLを遡っていたのですが、気のせいだったか……,https://twitter.com/skytomo221/status/1371392430730215431,0,0,0,0
+2021-3-15 17:32,説明をすると、バツボタンを押すとプログラムが終了したかったのですが、これをするになんと数日かかったんですね。それがたった今動きました。わーい https://t.co/rwpsEP8q6y,https://twitter.com/skytomo221/status/1371378779273097218,0,0,2,0
+2021-3-15 17:39,鹿屋都市圏……,https://twitter.com/skytomo221/status/1371380458013925376,0,0,1,0
+2021-3-15 10:27,おはcoi??,https://twitter.com/skytomo221/status/1371271842565005312,0,0,4,0
+2021-3-15 21:08,アラズ語の辞書、普通にテストコードとかで需要ある,https://twitter.com/skytomo221/status/1371433220592443392,0,0,2,0
+2021-3-15 18:42,?? https://t.co/CFM1hmFGbA,https://twitter.com/skytomo221/status/1371396365541023745,0,0,4,0
+2021-3-15 18:26,便利なものは拡散しないと（エヴァンゲリオンの感想とかを書き込んでいる人がいたので、ネタバレを書くときにも便利ですね）,https://twitter.com/skytomo221/status/1371392460614627331,0,0,0,0
+2021-3-15 17:31,動いたーーーーーーーー！！！（歓喜）,https://twitter.com/skytomo221/status/1371378435604410376,1,0,1,0
+2021-3-15 0:46,お?いし・い?（形）〔形容詞「いしい」に接頭語「お」の付いたもの。「美味しい」とも書く〕①物の味がよい。「?・いお菓子」「ごはんを?・く食べる」②都合がよい。利益になる。好ましい。「?・いことを言われてその気になる」「又云つて見たがえい。それこそ?・いめに会はせるわい／歌舞伎・男,https://twitter.com/skytomo221/status/1371125570189230082,1,1,3,1
+2021-3-15 10:26,@left_an3 おめでとうございます??,https://twitter.com/skytomo221/status/1371271496581009413,1,0,1,0
+2021-3-15 20:32,遊んでたらnpmの新しいバージョンの通知来た https://t.co/7uYh9qSGYf,https://twitter.com/skytomo221/status/1371423933191180291,0,0,2,0
+2021-3-15 18:19,menheraのSNS的なやつを前に見かけたことがあって今そのリンクを探す旅をしているんだけど見つからない。あれだいぶ前でしたっけ…,https://twitter.com/skytomo221/status/1371390576688394245,0,0,0,0
+2021-3-15 15:24,bioに書いた,https://twitter.com/skytomo221/status/1371346658424856577,0,0,1,0
+2021-3-15 0:58,良く言う、うまい感じに言うという意味なので、おいしくいただくはおいしそうに食べましたみたいな感じかな,https://twitter.com/skytomo221/status/1371128554667175936,0,2,1,0
+2021-3-15 1:01,大辞林、「物の味がよい」の例文で何の注釈もなく「ごはんをおいしく食べる」が出てきてすごい,https://twitter.com/skytomo221/status/1371129429422866439,1,0,2,0
+2021-3-15 1:03,「おいしいお菓子」は「物の味がよいお菓子」に置き換えられるが、「ごはんをおいしく食べる」は「ごはんを物の味がよく食べる」とは置き換えられない（置き換えても意味が分からない）文になる,https://twitter.com/skytomo221/status/1371129845631963138,0,0,0,0
+2021-3-15 21:07,アラズ語の辞書の無料配布！（空のOTM-JSONファイルを大公開）,https://twitter.com/skytomo221/status/1371432799471771659,0,0,4,0
+2021-3-14 19:45,いや、やっぱり宗教的じゃないかも,https://twitter.com/skytomo221/status/1371049727819534339,0,0,0,0
+2021-3-14 19:27,でも、たしかに普通にいただきますする分には宗教的じゃない,https://twitter.com/skytomo221/status/1371045212798078983,0,0,1,0
+2021-3-14 9:59,@qq542vev coi .ui .i mi nau sipna,https://twitter.com/skytomo221/status/1370902333161271296,1,0,1,0
+2021-3-14 19:44,"「『Hey, Siri!』はSiriに呼びかけるときの挨拶です」",https://twitter.com/skytomo221/status/1371049494242947076,0,0,1,0
+2021-3-14 19:43,「『行けたら行く』はそんなに行く気がないときの挨拶です」,https://twitter.com/skytomo221/status/1371049425548812288,0,0,3,0
+2021-3-14 19:26,小学校のときに「手を合わせてください」って言っていただきますする手続きは、今思うと割と儀式的で宗教的な感じがした（それが悪いという意味ではない）,https://twitter.com/skytomo221/status/1371045125028249606,0,1,6,0
+2021-3-15 0:14,@Mikanixonable まくらふわふわパラダイス,https://twitter.com/skytomo221/status/1371117618095005702,0,0,0,0
+2021-3-14 18:53,やっぱり1桁の足し算はさくらんぼ計算が有効ですか？,https://twitter.com/skytomo221/status/1371036871913050114,0,0,1,0
+2021-3-14 19:52,@arbazard たしかに…,https://twitter.com/skytomo221/status/1371051617366073344,0,0,1,0
+2021-3-14 1:58,小説方式で描く人工言語の作り方もいいですね（数学ガールみたいな）,https://twitter.com/skytomo221/status/1370781373133320193,0,0,3,0
+2021-3-14 19:43,「『全然勉強してない』は勉強をした後にする挨拶です」,https://twitter.com/skytomo221/status/1371049368695013386,0,0,4,0
+2021-3-14 18:53,僕はFFを覚える以前に、1桁の足し算引き算ができてないから、まずはそこからやらないといけない…,https://twitter.com/skytomo221/status/1371036655667310597,1,0,3,0
+2021-3-14 19:27,いただきますする ← ちょっとやばい動詞,https://twitter.com/skytomo221/status/1371045277608472576,0,0,3,0
+2021-3-14 19:44,「『同じ空の下に』は相手が同じ惑星にいさえすれば、どんなに離れていても24時間いつでも使うことができる挨拶です」,https://twitter.com/skytomo221/status/1371049576426311680,0,1,4,0
+2021-3-14 19:43,挨拶ってもしかして宗教的……？,https://twitter.com/skytomo221/status/1371049335308365826,1,0,2,0
+2021-3-14 20:53,@osaten_KKG ぽ！,https://twitter.com/skytomo221/status/1371066937212477442,1,0,1,0
+2021-3-14 19:10,@Asterisk6446229 あっ12進数だったんですね、早とちりでした??それにしてもかわいいですね。12進小学校っていうサイトを作って、1年生から順に12進数で算数を習うゲームみたいなものを想像してました。,https://twitter.com/skytomo221/status/1371041005647106049,0,0,1,0
+2021-3-14 2:00,冴えない人工言語の育ち方,https://twitter.com/skytomo221/status/1370781876462383108,0,0,2,0
+2021-3-14 19:43,「『いただきます』は食事をする前の挨拶です」っていう説明だとちょっと宗教的じゃない？,https://twitter.com/skytomo221/status/1371049269453410305,0,0,3,0
+2021-3-13 14:39,ちょろっとHsjoihsさんのリポジトリを見てみたけどそもそもinterfaceを使っていなかった（Ziphilさんと同じだ？）,https://twitter.com/skytomo221/status/1370610448295288832,0,0,1,0
+2021-3-13 13:44,昨日、寝る前に色々調べたけど、一日で解決できるようなものじゃなかったわね,https://twitter.com/skytomo221/status/1370596620585238530,0,0,0,0
+2021-3-13 16:34,友達がとも虐とか言ってたけど、とも虐に需要とかないでしょ。時代はぴあ虐！ぴあ虐です！ #ぴあ虐,https://twitter.com/skytomo221/status/1370639487760396292,1,0,0,0
+2021-3-13 16:28,アップロードもダウンロードも「頑張れ?頑張れ?」って応援してます。,https://twitter.com/skytomo221/status/1370637842309771265,0,2,12,0
+2021-3-13 16:45,「水に『ありがとう』などのよい言葉を見せると、きれいな結晶ができて、『ばかやろう』などのわるい言葉を見せると、きたない結晶ができる」というのは信じないが、「アップロードやダウンロードの際に『頑張れ?頑張れ?』って応援するとうまくいく」というのは信じます,https://twitter.com/skytomo221/status/1370642172928692224,0,5,48,0
+2021-3-13 13:40,そもそもこの疑問が湧いた発端が、OTM-JSONを読み込むライブラリを作っていたときにclassじゃないとinstanceofが使えないのかー、だったので、まさに、です。,https://twitter.com/skytomo221/status/1370595554221121538,1,0,1,0
+2021-3-13 16:36,なぜかメモ帳にあったのでツイートしてみた https://t.co/h4DpMhOEru,https://twitter.com/skytomo221/status/1370639820561604611,0,0,1,0
+2021-3-13 16:30,ネット環境の育ちが悪いので…,https://twitter.com/skytomo221/status/1370638397920792583,0,0,1,0
+2021-3-13 15:09,少し寄り道してるけどinterfaceだとこんな感じで書けるのね https://t.co/YNcxe13nPM,https://twitter.com/skytomo221/status/1370617874398679045,1,0,1,0
+2021-3-13 19:04,僕が求めていたのはtypeでした！,https://twitter.com/skytomo221/status/1370677155693142017,0,0,1,0
+2021-3-13 14:17,TypeScriptのインターフェースの命名規則、とあるQiita記事に倣ってプレフィックスにIを付けていたのですが、付けないほうがいい？,https://twitter.com/skytomo221/status/1370604942289899521,1,2,6,0
+2021-3-13 13:46,「TypeScriptのclassは暗黙のうちにinterfaceを定義しているのと同義」とかこういう記事を見ていたhttps://t.co/HimduO0FTB,https://twitter.com/skytomo221/status/1370597176338829312,0,0,1,0
+2021-3-13 14:36,何気に「ハンガリアン記法」とか「オブジェクトリテラル」とかいうワードを知らなかった（過去に知っていたとしても忘れていた）,https://twitter.com/skytomo221/status/1370609690489483265,0,0,1,0
+2021-3-13 17:01,リパライン語の辞書が更新できた！！！（今月はもう諦めてたけど今ならいけるかなーって思ってたらできた） https://t.co/eUPuagD8UF,https://twitter.com/skytomo221/status/1370646069596450816,0,2,4,0
+2021-3-13 14:33,付けるのやめるか…,https://twitter.com/skytomo221/status/1370608886403665924,0,0,0,0
+2021-3-13 14:32,@ryokohbato 公式ではないですが、こういうのを見つけたので、たしかに付けないほうがいいみたいですねhttps://t.co/2Cqp9cB57m,https://twitter.com/skytomo221/status/1370608688159854593,1,0,1,0
+2021-3-13 15:14,https://t.co/jBA1NZ3nEY,https://twitter.com/skytomo221/status/1370619193410813957,0,0,0,0
+2021-3-13 18:33,@rafenemine かわいい…,https://twitter.com/skytomo221/status/1370669355608932352,0,0,1,0
+2021-3-13 14:18,先頭にIを付けるといい理由ってあるんですか？,https://twitter.com/skytomo221/status/1370605149001904128,1,0,1,0
+2021-3-13 19:27,わーいtype　あかりtypeだいすき,https://twitter.com/skytomo221/status/1370682857102864387,0,0,2,0
+2021-3-13 10:54,@hedalu244 「機能としてはclassはコンストラクタになるけどinterfaceは別途そういうのを書かなきゃいけない」とは、classにはコンストラクタがあるが、interfaceにはそれがない、という意味でいいですか？,https://twitter.com/skytomo221/status/1370553858569641993,1,0,1,0
+2021-3-12 18:29,まだ昨日の疲れが取れきっていないからかな,https://twitter.com/skytomo221/status/1370305923319664644,0,0,0,0
+2021-3-13 10:55,@hedalu244 これについて、Boardをclassとして定義して、createBoardの代わりにコンストラクタをBoardに作る方法もあると思うのですが、この場合はinterfaceとして定義するのが普通なんですか？（それともそういう流派？）,https://twitter.com/skytomo221/status/1370554006460715009,1,0,1,0
+2021-3-13 11:57,やっぱり、TypeScriptがAltJSである限り、コンパイル後にどうなるかを意識していないといけないんですかね,https://twitter.com/skytomo221/status/1370569748484739072,0,2,6,0
+2021-3-12 19:21,@MamoruItoi インターフェイスはクラスをすることもできます,https://twitter.com/skytomo221/status/1370318938840526851,1,0,1,0
+2021-3-12 19:33,TypeScriptのインターフェイスとクラスの違いというか、どっちを使えばいいかわからないんですが、調べても出てこない…,https://twitter.com/skytomo221/status/1370322106580303873,2,1,7,0
+2021-3-12 18:27,これがVR酔いか～ってなってる,https://twitter.com/skytomo221/status/1370305499581669376,0,0,4,0
+2021-3-12 20:43,@464161niftg ……と今朝までは思っていたのですが、VRChatとかだとQuestに対応していないアバターやワールドがまあ割とあるので、USB Type A to Type Cの変換ケーブルを追加で購入してPCに接続してプレイする予定です。VRChatするなら結局良いPCを買わないといけないんですかね…。,https://twitter.com/skytomo221/status/1370339696304218117,1,0,0,0
+2021-3-12 19:29,@57tggx 夜になってしまいましたが、お誕生日おめでとうございます！！！??????,https://twitter.com/skytomo221/status/1370320971467427840,1,0,1,0
+2021-3-12 20:31,これ元の記事が中国語っぽいんだけど、まさか英語圏の人が「日本語に機械翻訳したけど、漢字が残ってるな…せや！残った漢字は消したろ！」とかしていないでしょうね……,https://twitter.com/skytomo221/status/1370336720336515074,0,26,40,1
+2021-3-13 13:38,色々とリプライをもらって分かってきました、ありがとうございます。,https://twitter.com/skytomo221/status/1370595020961550336,0,0,1,0
+2021-3-9 19:55,@mizuwumi なでなで～,https://twitter.com/skytomo221/status/1369240349802078209,0,0,2,0
+2021-3-11 22:38,昨日の日記。写真多めです #はてなブログOculus Quest 2 が届いた - 私が気にする100の事象https://t.co/twYb6neTPM,https://twitter.com/skytomo221/status/1370006127442759692,1,0,2,0
+2021-3-12 18:43,たしかに「13時に起きた」と言うよりも「午前13時に起きた」のほうが早起きな感じする（いいえ）,https://twitter.com/skytomo221/status/1370309414721179650,0,0,3,0
+2021-3-12 12:08,@464161niftg 十分なPCスペックがあればRift Sの方が鮮明らしいのですが、自分は移動が割と多いので、Wi-Fi環境さえあれば動くQuest 2にしました。あと、こちらはバッテリーが内蔵されていて消灯後も1時間くらいできるみたいで、そういうのも含めてこれはいいですね（単純にコードが邪魔にならないというのもある）,https://twitter.com/skytomo221/status/1370209983556509700,1,0,0,0
+2021-3-12 17:05,酔いました…,https://twitter.com/skytomo221/status/1370284872242065408,0,0,0,0
+2021-3-13 10:54,@hedalu244 例えば、べたるさんのswap-knightではBoardをinterfaceとして定義して、createBoardという関数でBoardを実装したオブジェクトリテラルを返していますね。https://t.co/QkCIhhpRKx,https://twitter.com/skytomo221/status/1370553916207755264,1,1,1,0
+2021-3-12 18:29,慣れるまでHOLOPORTをONにするか,https://twitter.com/skytomo221/status/1370305968874004481,0,0,0,0
+2021-3-12 19:19,かなり怪レいサイトを見つけた https://t.co/tWCV1l552T,https://twitter.com/skytomo221/status/1370318525554851845,1,35,75,2
+2021-3-12 17:42,AkrantiainとZatlinはもっと普及させます。,https://twitter.com/skytomo221/status/1370294017682862080,0,0,0,0
+2021-3-9 11:48,@shinonag ???????,https://twitter.com/skytomo221/status/1369117783745728514,0,0,1,0
+2021-3-8 17:56,イシクラゲ、意外といけるのか……https://t.co/Tn00X90gKH,https://twitter.com/skytomo221/status/1368848070167830529,0,0,2,0
+2021-3-8 21:50,@SuiuRelumi おやすみなさいにゃ。,https://twitter.com/skytomo221/status/1368907014361935873,1,0,1,0
+2021-3-8 17:15,昨日の日記。ちなみに僕はアモングアスと読んじゃいます #はてなブログAmong usをどう読むのか - 私が気にする100の事象https://t.co/fW7h45kQhj,https://twitter.com/skytomo221/status/1368837845285171203,0,0,1,0
+2021-3-9 12:08,@shinonag そうです。山本一成さんのアプリを使っています。位置情報はIPから大雑把に出しているみたいなので、雨なのに曇りということがありますが（とはいえあまり正確な天気だと位置がバレるのでこれくらいがいいですね）、夜になると月の満ち欠けが分かるので面白いですよ！https://t.co/NP6X54YlcN,https://twitter.com/skytomo221/status/1369122954492088321,0,2,4,0
+2021-3-9 11:47,おはござ！??,https://twitter.com/skytomo221/status/1369117636043313153,0,0,3,0
+2021-3-7 17:02,@left_an3 いいですね?,https://twitter.com/skytomo221/status/1368472093415809024,0,0,1,0
+2021-3-8 19:23,アンケートの存在に気づかなかった…。少なくとも1か月に1回以上は引いていると思います。,https://twitter.com/skytomo221/status/1368870080335863815,0,0,0,0
+2021-3-9 0:11,生まれて初めてnpmにパッケージを公開しました…https://t.co/AWPYpwndvV,https://twitter.com/skytomo221/status/1368942440925655042,0,0,4,0
+2021-3-7 18:11,昨日の日記です。 #はてなブログ習慣をつけるということ - 私が気にする100の事象https://t.co/gFjJH8PI95,https://twitter.com/skytomo221/status/1368489408836476929,0,0,2,0
+2021-3-9 18:41,昨日の日記！ #はてなブログ生まれて初めてnpmにパッケージを公開した - 私が気にする100の事象https://t.co/OpsMy1ocuC,https://twitter.com/skytomo221/status/1369221858499784705,0,0,1,0
+2021-3-8 17:49,イシクラゲを…食べる！？ https://t.co/MTRs0sEgkj,https://twitter.com/skytomo221/status/1368846358371725312,0,0,2,0
+2021-3-7 18:39,@lockdef このページ好きですw他にも洗濯機の中に入ったりするやつですよね！,https://twitter.com/skytomo221/status/1368496600494997504,0,0,0,0
+2021-3-8 18:41,宗教と生活が密接に関わりすぎてどこからどこまでが宗教なのかわからないよね。例えば、いただきますのときに手を合わせるのはある種の宗教だと思うんだけど、どうかな,https://twitter.com/skytomo221/status/1368859450740645888,0,0,10,0
+2021-3-8 17:48,火星に行くならもってけ!イシクラゲ,https://twitter.com/skytomo221/status/1368845955580108804,0,0,2,0
+2021-3-8 17:40,https://t.co/WKoOb0raZS,https://twitter.com/skytomo221/status/1368844053941415939,0,0,1,0
+2021-3-9 18:50,「蛇口をひねって水を出す」「電気を付ける」と「蛇口をひねって水を止める」「電気を消す」、一見似ているような動作だけど、前者は生きるために必要であって、後者は必ずしもそうではないことから、後者については誰かがちゃんと教えないとわからないんだよね,https://twitter.com/skytomo221/status/1369224032126607361,0,0,6,0
+2021-3-9 12:36,かわいい…,https://twitter.com/skytomo221/status/1369130023454568449,0,0,3,0
+2021-3-9 12:17,悪意のあるネタバレは嫌いだけど、「これはエヴァのネタバレですが」の後にプペルのネタバレ書いてるツイートはちょっとだけ面白かった,https://twitter.com/skytomo221/status/1369125230031990792,0,1,3,0
+2021-3-7 18:13,もう日の入りか、早いな,https://twitter.com/skytomo221/status/1368489920679923714,0,0,1,0
+2021-3-5 18:49,個人的には「完全に理解した」より「ちょっと分かります」のほうがﾋｴｯってなる,https://twitter.com/skytomo221/status/1367774292356730881,1,0,7,0
+2021-3-5 22:40,Vueは入りやすい、Reactはやり始めるのにそれなりのコストが必要だったりするのは聞いたことがありますね。,https://twitter.com/skytomo221/status/1367832412701351937,1,0,4,0
+2021-3-5 22:39,ちっこいシングルのページならたしかにどっちでも良さそう,https://twitter.com/skytomo221/status/1367832235823407106,0,0,0,0
+2021-3-5 21:09,@shinonag おやすみなさい～,https://twitter.com/skytomo221/status/1367809457246203905,0,0,0,0
+2021-3-6 18:32,@unaduki_y おはようございます,https://twitter.com/skytomo221/status/1368132442217803782,0,0,1,0
+2021-3-6 21:09,「うっせえわ」は方言っぽいと思わないけど、「～やろがい」は方言っぽく感じる,https://twitter.com/skytomo221/status/1368171871284441092,0,0,5,0
+2021-3-7 12:16,おはようございます（睡眠時間9時間）,https://twitter.com/skytomo221/status/1368400242098335745,0,0,3,0
+2021-3-5 18:49,「完全に理解した」&lt;「なんもわからん」&lt;「チョットワカル」https://t.co/926qJ8cahx,https://twitter.com/skytomo221/status/1367774379120070659,1,0,3,0
+2021-3-6 16:17,わぁいロジバン　あかりロジバン大好き,https://twitter.com/skytomo221/status/1368098489956114432,0,0,4,0
+2021-3-6 20:46,@sepi_dev 絵を描いたの忘れてたさらに書き足した,https://twitter.com/skytomo221/status/1368166054808150027,0,0,0,0
+2021-3-5 18:33,昨日の日記です。 #はてなブログ雨の日はVRChatできないかもね - 私が気にする100の事象https://t.co/OeRkyDDimg,https://twitter.com/skytomo221/status/1367770311932874756,0,0,2,0
+2021-3-6 16:31,Visual Studio Code を Visual Studio って略すな！←わかるVisual Studio Code を Code って略すな！←わか…る？,https://twitter.com/skytomo221/status/1368101843734200324,1,1,8,0
+2021-3-7 17:00,@left_an3 ！！！,https://twitter.com/skytomo221/status/1368471684966060038,1,0,1,0
+2021-3-5 18:58,聞いてみたら意外とうるさくなかった……,https://twitter.com/skytomo221/status/1367776486187442179,0,0,1,0
+2021-3-6 23:05,@Lycolia おっ私も全く同意見ですにゃ！,https://twitter.com/skytomo221/status/1368201011333013508,0,0,2,0
+2021-3-5 22:36,Reactをおすすめしたいけど、Vueを使ったことがないので、なんとも言えない…,https://twitter.com/skytomo221/status/1367831332458430464,0,0,2,0
+2021-3-6 18:30,@sepi_dev 書き足した,https://twitter.com/skytomo221/status/1368131750090604545,1,0,0,0
+2021-3-5 18:50,あくまでそういうネタだよ、真面目に受け取らないでね。,https://twitter.com/skytomo221/status/1367774403656740865,0,0,1,0
+2021-3-5 18:57,サンシャイン池崎の「うっせぇわ」が本当にうるさいと話題に←これすき,https://twitter.com/skytomo221/status/1367776351340482562,1,0,4,0
+2021-3-6 16:14,昨日の日記です #はてなブログ12021-03-05 - 私が気にする100の事象https://t.co/6yniya5fXB,https://twitter.com/skytomo221/status/1368097612486696961,1,0,1,0
+2021-3-4 16:09,わかる,https://twitter.com/skytomo221/status/1367371682390806529,0,0,0,0
+2021-3-4 16:44,@LeeNamGwang WSLでやったら普通に動くのにーっていうことがあるので、どちらかというとPowerShellがめんどくさいことになってると思います。日本語形態素解析MeCabくんもPowerShellで `chcp 65001` やったのに文字化けするし、よくわからんです…,https://twitter.com/skytomo221/status/1367380436490461191,1,0,1,0
+2021-3-4 16:34,@LeeNamGwang Powershellを使っていてPythonで文字コードに悩まされたことがあるので、悩まされるかもしれません。,https://twitter.com/skytomo221/status/1367377921527091201,1,0,1,0
+2021-3-3 19:33,なんか不平等条約みたいになってる…（僕の名前出して全然大丈夫ですよ、申し訳ない）,https://twitter.com/skytomo221/status/1367060559493914627,0,0,3,0
+2021-3-3 20:08,@shinonag あ、そうだったんですね！なんか僕のほうがうやむやになってたような気がしたので??&gt; 本当に出していいなら出しちゃいますけど！！それはしのさんが出してもいいかなーって思ったときにどうぞ！,https://twitter.com/skytomo221/status/1367069428861440008,0,0,0,0
+2021-3-3 20:43,これ、僕も引っかかったことあって、 lojbau だとログランになるんですよ。ちょっとややこしい??,https://twitter.com/skytomo221/status/1367078237646381061,0,1,5,1
+2021-3-4 16:11,C++でもJavaでもPythonでも大事なことは同じだと思うけど、あんまり大事じゃないところが色々言語によって違うので、やっぱりプログラミングわからんし時間とか割きたくないんならPythonとかがおすすめだったりする（色々記事多いし、コミュニティがでかい）,https://twitter.com/skytomo221/status/1367372209778352128,0,4,13,1
+2021-3-4 15:22,昨日の日記です #はてなブログトイレに洗剤を入れる - 私が気にする100の事象https://t.co/jVM7J57TAV,https://twitter.com/skytomo221/status/1367359847008673792,0,0,2,0
+2021-3-5 11:29,@mirror_kt おめでとうございます！,https://twitter.com/skytomo221/status/1367663461900034048,0,0,1,0
+2021-3-3 21:07,@Qunoxts @Ziphil 2Mm×2Mm=4Mm^2,https://twitter.com/skytomo221/status/1367084189179240455,0,0,0,0
+2021-3-4 15:53,ISO/IEC 2022 は複数の言語の文字を切り替えて表現する方式を定めているんだけど、有名にならなかったのは、やっぱりASCII文字は1バイト文字で表したいというのがあったからなのかな。Unicodeでもよく使われているエンコーディング方式はUTF-8なので（UTF-8ではASCII文字は1バイト文字で表される）。,https://twitter.com/skytomo221/status/1367367507120549893,0,0,1,0
+2021-3-4 15:57,@Lil_clos おつおつ,https://twitter.com/skytomo221/status/1367368671169900544,1,0,1,0
+2021-3-4 15:38,ISO/IEC 2022 というのがあってですね……,https://twitter.com/skytomo221/status/1367363742640447491,0,0,1,0
+2021-3-4 17:53,@nagise こういうのですねhttps://t.co/YRBLP7bqly,https://twitter.com/skytomo221/status/1367397885365555203,0,1,3,0
+2021-3-3 19:17,僕「お父さん、ご飯～」僕「お父さんはご飯じゃありません！」父「……」,https://twitter.com/skytomo221/status/1367056609092931590,0,0,9,0
+2021-3-4 15:54,規格は先に作ったもん勝ちなの、あんまり好きじゃないんだけどね…,https://twitter.com/skytomo221/status/1367367754664144899,0,0,2,0
+2021-3-3 19:13,昨日の日記です。 #はてなブログモルカー 第9話 - 私が気にする100の事象https://t.co/HwzVv0lFHl,https://twitter.com/skytomo221/status/1367055482746200065,0,0,1,0
+2021-3-5 11:23,おはようー！??,https://twitter.com/skytomo221/status/1367662047182221315,0,0,9,0
+2021-3-4 18:52,@hedalu244 @Ziphil わかる、わかるのですが、JavaScriptを知らない人のためのTypeScript入門みたいなのとかありますか？TypeScriptをわかるにはJavaScriptを知ってないといけないのでやっぱり厳しくないですか？,https://twitter.com/skytomo221/status/1367412720224505856,1,0,2,0
+2021-3-3 21:26,@464161niftg あ、本当だ。記憶だけじゃなくてちゃんと辞書を引くべきでした .u'uとはいえ、今見ると色々定義がありますね…,https://twitter.com/skytomo221/status/1367088941585682435,1,0,0,0
+2021-2-28 19:12,@Momijisaqoou 技術的な記事も書くならはてなブログがおすすめですが、日記とかしか書かないならnoteのほうが手軽でいいですよ。,https://twitter.com/skytomo221/status/1365968004488470529,1,0,1,0
+2021-2-26 16:55,@sepi_dev 元々見てないだろ…,https://twitter.com/skytomo221/status/1365208928385003521,1,0,0,0
+2021-2-26 14:07,s/紀元前約3億年前/紀元前約3億年/,https://twitter.com/skytomo221/status/1365166483953786880,0,0,1,0
+2021-2-26 13:50,階数の数え方が、後の天井関数と床関数である（いいえ） https://t.co/hmUe08LoBP,https://twitter.com/skytomo221/status/1365162386584334336,0,0,0,0
+2021-2-27 19:54,ところで「お前は地図でケーキ屋さんの場所を検索したらケーキを販売しているスーパーやレストランとかの店舗の一覧が出てきて嬉しいのか……？」という例えのほうがいいかもしれない？,https://twitter.com/skytomo221/status/1365616307211702273,0,0,1,0
+2021-2-26 14:00,JavaのDateTime型は西暦で紀元前約3億年前まで表せますが、人類紀元だったらなんと紀元前約3億年前まで表せます！,https://twitter.com/skytomo221/status/1365164939111845890,1,0,1,0
