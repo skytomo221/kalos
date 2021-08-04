@@ -34,3 +34,4 @@ $ docker-compose up
 - [Kalos氏の投稿時間](./src/datetime.ipynb)
 - [カロス語におけるn-gram](./src/ngram.ipynb)
 - [英語におけるn-gram](./src/ngram-english.ipynb)
+- [文字とスペースをランダムにおいたときのn-gram](./src/ngram-random.ipynb)
