@@ -32,3 +32,5 @@ $ docker-compose up
 - [文字とスペースをランダムにおいたときの頻度分析](./src/frequency-analysis-random.ipynb)
 - [連続子音に関する英語とカロス語の比較](./src/continuous-consonants.ipynb)
 - [Kalos氏の投稿時間](./src/datetime.ipynb)
+- [カロス語におけるn-gram](./src/ngram.ipynb)
+- [英語におけるn-gram](./src/ngram-english.ipynb)
